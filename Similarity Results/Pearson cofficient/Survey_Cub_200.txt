@@ -1,0 +1,1600 @@
+Top similar birds to 001.Black_footed_Albatross
+sim value 0.469
+1 -  045.Northern_Fulmar
+sim value 0.322
+2 -  137.Cliff_Swallow
+sim value 0.315
+3 -  051.Horned_Grebe
+---------------------------------------------
+Top similar birds to 002.Laysan_Albatross
+sim value 0.534
+1 -  041.Scissor_tailed_Flycatcher
+sim value 0.516
+2 -  084.Red_legged_Kittiwake
+sim value 0.486
+3 -  045.Northern_Fulmar
+---------------------------------------------
+Top similar birds to 003.Sooty_Albatross
+sim value 0.461
+1 -  071.Long_tailed_Jaeger
+sim value 0.356
+2 -  001.Black_footed_Albatross
+sim value 0.305
+3 -  009.Brewer_Blackbird
+---------------------------------------------
+Top similar birds to 004.Groove_billed_Ani
+sim value 0.446
+1 -  052.Pied_billed_Grebe
+sim value 0.302
+2 -  135.Bank_Swallow
+sim value 0.293
+3 -  119.Field_Sparrow
+---------------------------------------------
+Top similar birds to 006.Least_Auklet
+sim value 0.280
+1 -  065.Slaty_backed_Gull
+sim value 0.277
+2 -  080.Green_Kingfisher
+sim value 0.269
+3 -  150.Sage_Thrasher
+---------------------------------------------
+Top similar birds to 007.Parakeet_Auklet
+sim value 0.324
+1 -  046.Gadwall
+sim value 0.292
+2 -  060.Glaucous_winged_Gull
+sim value 0.287
+3 -  009.Brewer_Blackbird
+---------------------------------------------
+Top similar birds to 008.Rhinoceros_Auklet
+sim value 0.401
+1 -  043.Yellow_bellied_Flycatcher
+sim value 0.396
+2 -  178.Swainson_Warbler
+sim value 0.360
+3 -  009.Brewer_Blackbird
+---------------------------------------------
+Top similar birds to 012.Yellow_headed_Blackbird
+sim value 0.674
+1 -  139.Scarlet_Tanager
+sim value 0.527
+2 -  055.Evening_Grosbeak
+sim value 0.519
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 013.Bobolink
+sim value 0.628
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.569
+2 -  108.White_necked_Raven
+sim value 0.539
+3 -  089.Hooded_Merganser
+---------------------------------------------
+Top similar birds to 014.Indigo_Bunting
+sim value 0.667
+1 -  054.Blue_Grosbeak
+sim value 0.535
+2 -  015.Lazuli_Bunting
+sim value 0.461
+3 -  075.Green_Jay
+---------------------------------------------
+Top similar birds to 015.Lazuli_Bunting
+sim value 0.593
+1 -  164.Cerulean_Warbler
+sim value 0.535
+2 -  014.Indigo_Bunting
+sim value 0.521
+3 -  054.Blue_Grosbeak
+---------------------------------------------
+Top similar birds to 016.Painted_Bunting
+sim value 0.659
+1 -  014.Indigo_Bunting
+sim value 0.591
+2 -  054.Blue_Grosbeak
+sim value 0.556
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 017.Cardinal
+sim value 0.697
+1 -  139.Scarlet_Tanager
+sim value 0.612
+2 -  077.Tropical_Kingbird
+sim value 0.577
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 018.Spotted_Catbird
+sim value 0.402
+1 -  070.Green_Violetear
+sim value 0.389
+2 -  175.Pine_Warbler
+sim value 0.387
+3 -  168.Kentucky_Warbler
+---------------------------------------------
+Top similar birds to 022.Chuck_will_Widow
+sim value 0.480
+1 -  105.Whip_poor_Will
+sim value 0.356
+2 -  199.Winter_Wren
+sim value 0.327
+3 -  195.Carolina_Wren
+---------------------------------------------
+Top similar birds to 024.Red_faced_Cormorant
+sim value 0.558
+1 -  055.Evening_Grosbeak
+sim value 0.526
+2 -  139.Scarlet_Tanager
+sim value 0.501
+3 -  156.White_eyed_Vireo
+---------------------------------------------
+Top similar birds to 028.Brown_Creeper
+sim value 0.543
+1 -  190.Red_cockaded_Woodpecker
+sim value 0.368
+2 -  187.American_Three_toed_Woodpecker
+sim value 0.231
+3 -  150.Sage_Thrasher
+---------------------------------------------
+Top similar birds to 036.Northern_Flicker
+sim value 0.326
+1 -  081.Pied_Kingfisher
+sim value 0.276
+2 -  150.Sage_Thrasher
+sim value 0.231
+3 -  099.Ovenbird
+---------------------------------------------
+Top similar birds to 041.Scissor_tailed_Flycatcher
+sim value 0.560
+1 -  085.Horned_Lark
+sim value 0.487
+2 -  045.Northern_Fulmar
+sim value 0.445
+3 -  112.Great_Grey_Shrike
+---------------------------------------------
+Top similar birds to 042.Vermilion_Flycatcher
+sim value 0.676
+1 -  139.Scarlet_Tanager
+sim value 0.609
+2 -  077.Tropical_Kingbird
+sim value 0.607
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 046.Gadwall
+sim value 0.446
+1 -  068.Ruby_throated_Hummingbird
+sim value 0.364
+2 -  064.Ring_billed_Gull
+sim value 0.359
+3 -  067.Anna_Hummingbird
+---------------------------------------------
+Top similar birds to 047.American_Goldfinch
+sim value 0.675
+1 -  048.European_Goldfinch
+sim value 0.614
+2 -  169.Magnolia_Warbler
+sim value 0.589
+3 -  077.Tropical_Kingbird
+---------------------------------------------
+Top similar birds to 048.European_Goldfinch
+sim value 0.709
+1 -  166.Golden_winged_Warbler
+sim value 0.698
+2 -  055.Evening_Grosbeak
+sim value 0.606
+3 -  147.Least_Tern
+---------------------------------------------
+Top similar birds to 050.Eared_Grebe
+sim value 0.574
+1 -  090.Red_breasted_Merganser
+sim value 0.471
+2 -  175.Pine_Warbler
+sim value 0.408
+3 -  128.Seaside_Sparrow
+---------------------------------------------
+Top similar birds to 051.Horned_Grebe
+sim value 0.472
+1 -  055.Evening_Grosbeak
+sim value 0.449
+2 -  048.European_Goldfinch
+sim value 0.445
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 052.Pied_billed_Grebe
+sim value 0.397
+1 -  082.Ringed_Kingfisher
+sim value 0.391
+2 -  175.Pine_Warbler
+sim value 0.389
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 053.Western_Grebe
+sim value 0.513
+1 -  147.Least_Tern
+sim value 0.489
+2 -  146.Forsters_Tern
+sim value 0.441
+3 -  106.Horned_Puffin
+---------------------------------------------
+Top similar birds to 054.Blue_Grosbeak
+sim value 0.667
+1 -  014.Indigo_Bunting
+sim value 0.521
+2 -  015.Lazuli_Bunting
+sim value 0.465
+3 -  073.Blue_Jay
+---------------------------------------------
+Top similar birds to 057.Rose_breasted_Grosbeak
+sim value 0.505
+1 -  147.Least_Tern
+sim value 0.500
+2 -  089.Hooded_Merganser
+sim value 0.495
+3 -  192.Downy_Woodpecker
+---------------------------------------------
+Top similar birds to 063.Ivory_Gull
+sim value 0.581
+1 -  084.Red_legged_Kittiwake
+sim value 0.529
+2 -  041.Scissor_tailed_Flycatcher
+sim value 0.481
+3 -  064.Ring_billed_Gull
+---------------------------------------------
+Top similar birds to 069.Rufous_Hummingbird
+sim value 0.572
+1 -  068.Ruby_throated_Hummingbird
+sim value 0.476
+2 -  067.Anna_Hummingbird
+sim value 0.430
+3 -  199.Winter_Wren
+---------------------------------------------
+Top similar birds to 070.Green_Violetear
+sim value 0.558
+1 -  067.Anna_Hummingbird
+sim value 0.527
+2 -  175.Pine_Warbler
+sim value 0.526
+3 -  087.Mallard
+---------------------------------------------
+Top similar birds to 073.Blue_Jay
+sim value 0.534
+1 -  075.Green_Jay
+sim value 0.475
+2 -  015.Lazuli_Bunting
+sim value 0.465
+3 -  054.Blue_Grosbeak
+---------------------------------------------
+Top similar birds to 074.Florida_Jay
+sim value 0.611
+1 -  073.Blue_Jay
+sim value 0.542
+2 -  015.Lazuli_Bunting
+sim value 0.476
+3 -  054.Blue_Grosbeak
+---------------------------------------------
+Top similar birds to 075.Green_Jay
+sim value 0.534
+1 -  073.Blue_Jay
+sim value 0.461
+2 -  014.Indigo_Bunting
+sim value 0.374
+3 -  055.Evening_Grosbeak
+---------------------------------------------
+Top similar birds to 076.Dark_eyed_Junco
+sim value 0.421
+1 -  114.Black_throated_Sparrow
+sim value 0.387
+2 -  057.Rose_breasted_Grosbeak
+sim value 0.375
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 079.Belted_Kingfisher
+sim value 0.559
+1 -  090.Red_breasted_Merganser
+sim value 0.511
+2 -  082.Ringed_Kingfisher
+sim value 0.438
+3 -  164.Cerulean_Warbler
+---------------------------------------------
+Top similar birds to 080.Green_Kingfisher
+sim value 0.591
+1 -  082.Ringed_Kingfisher
+sim value 0.515
+2 -  078.Gray_Kingbird
+sim value 0.443
+3 -  090.Red_breasted_Merganser
+---------------------------------------------
+Top similar birds to 081.Pied_Kingfisher
+sim value 0.440
+1 -  192.Downy_Woodpecker
+sim value 0.388
+2 -  099.Ovenbird
+sim value 0.368
+3 -  160.Black_throated_Blue_Warbler
+---------------------------------------------
+Top similar birds to 083.White_breasted_Kingfisher
+sim value 0.427
+1 -  024.Red_faced_Cormorant
+sim value 0.403
+2 -  139.Scarlet_Tanager
+sim value 0.389
+3 -  048.European_Goldfinch
+---------------------------------------------
+Top similar birds to 084.Red_legged_Kittiwake
+sim value 0.495
+1 -  045.Northern_Fulmar
+sim value 0.488
+2 -  064.Ring_billed_Gull
+sim value 0.476
+3 -  066.Western_Gull
+---------------------------------------------
+Top similar birds to 085.Horned_Lark
+sim value 0.670
+1 -  114.Black_throated_Sparrow
+sim value 0.638
+2 -  118.House_Sparrow
+sim value 0.607
+3 -  132.White_crowned_Sparrow
+---------------------------------------------
+Top similar birds to 086.Pacific_Loon
+sim value 0.488
+1 -  052.Pied_billed_Grebe
+sim value 0.479
+2 -  178.Swainson_Warbler
+sim value 0.393
+3 -  111.Loggerhead_Shrike
+---------------------------------------------
+Top similar birds to 087.Mallard
+sim value 0.526
+1 -  070.Green_Violetear
+sim value 0.429
+2 -  168.Kentucky_Warbler
+sim value 0.369
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 088.Western_Meadowlark
+sim value 0.580
+1 -  139.Scarlet_Tanager
+sim value 0.543
+2 -  169.Magnolia_Warbler
+sim value 0.532
+3 -  162.Canada_Warbler
+---------------------------------------------
+Top similar birds to 089.Hooded_Merganser
+sim value 0.595
+1 -  106.Horned_Puffin
+sim value 0.573
+2 -  147.Least_Tern
+sim value 0.546
+3 -  192.Downy_Woodpecker
+---------------------------------------------
+Top similar birds to 090.Red_breasted_Merganser
+sim value 0.443
+1 -  080.Green_Kingfisher
+sim value 0.373
+2 -  082.Ringed_Kingfisher
+sim value 0.337
+3 -  199.Winter_Wren
+---------------------------------------------
+Top similar birds to 092.Nighthawk
+sim value 0.432
+1 -  113.Baird_Sparrow
+sim value 0.374
+2 -  046.Gadwall
+sim value 0.321
+3 -  064.Ring_billed_Gull
+---------------------------------------------
+Top similar birds to 094.White_breasted_Nuthatch
+sim value 0.417
+1 -  160.Black_throated_Blue_Warbler
+sim value 0.404
+2 -  064.Ring_billed_Gull
+sim value 0.386
+3 -  146.Forsters_Tern
+---------------------------------------------
+Top similar birds to 100.Brown_Pelican
+sim value 0.257
+1 -  001.Black_footed_Albatross
+sim value 0.244
+2 -  046.Gadwall
+sim value 0.196
+3 -  025.Pelagic_Cormorant
+---------------------------------------------
+Top similar birds to 101.White_Pelican
+sim value 0.314
+1 -  141.Artic_Tern
+sim value 0.300
+2 -  024.Red_faced_Cormorant
+sim value 0.275
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 105.Whip_poor_Will
+sim value 0.480
+1 -  022.Chuck_will_Widow
+sim value 0.394
+2 -  187.American_Three_toed_Woodpecker
+sim value 0.265
+3 -  195.Carolina_Wren
+---------------------------------------------
+Top similar birds to 106.Horned_Puffin
+sim value 0.595
+1 -  089.Hooded_Merganser
+sim value 0.538
+2 -  147.Least_Tern
+sim value 0.428
+3 -  185.Bohemian_Waxwing
+---------------------------------------------
+Top similar birds to 110.Geococcyx
+sim value 0.507
+1 -  018.Spotted_Catbird
+sim value 0.400
+2 -  113.Baird_Sparrow
+sim value 0.350
+3 -  123.Henslow_Sparrow
+---------------------------------------------
+Top similar birds to 113.Baird_Sparrow
+sim value 0.439
+1 -  150.Sage_Thrasher
+sim value 0.434
+2 -  117.Clay_colored_Sparrow
+sim value 0.404
+3 -  124.Le_Conte_Sparrow
+---------------------------------------------
+Top similar birds to 114.Black_throated_Sparrow
+sim value 0.670
+1 -  085.Horned_Lark
+sim value 0.643
+2 -  132.White_crowned_Sparrow
+sim value 0.578
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 124.Le_Conte_Sparrow
+sim value 0.510
+1 -  126.Nelson_Sharp_tailed_Sparrow
+sim value 0.468
+2 -  119.Field_Sparrow
+sim value 0.426
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 134.Cape_Glossy_Starling
+sim value 0.570
+1 -  156.White_eyed_Vireo
+sim value 0.526
+2 -  075.Green_Jay
+sim value 0.434
+3 -  162.Canada_Warbler
+---------------------------------------------
+Top similar birds to 138.Tree_Swallow
+sim value 0.677
+1 -  164.Cerulean_Warbler
+sim value 0.511
+2 -  015.Lazuli_Bunting
+sim value 0.508
+3 -  146.Forsters_Tern
+---------------------------------------------
+Top similar birds to 149.Brown_Thrasher
+sim value 0.495
+1 -  119.Field_Sparrow
+sim value 0.463
+2 -  099.Ovenbird
+sim value 0.445
+3 -  150.Sage_Thrasher
+---------------------------------------------
+Top similar birds to 151.Black_capped_Vireo
+sim value 0.506
+1 -  009.Brewer_Blackbird
+sim value 0.470
+2 -  166.Golden_winged_Warbler
+sim value 0.446
+3 -  200.Common_Yellowthroat
+---------------------------------------------
+Top similar birds to 159.Black_and_white_Warbler
+sim value 0.600
+1 -  192.Downy_Woodpecker
+sim value 0.580
+2 -  081.Pied_Kingfisher
+sim value 0.524
+3 -  099.Ovenbird
+---------------------------------------------
+Top similar birds to 164.Cerulean_Warbler
+sim value 0.677
+1 -  138.Tree_Swallow
+sim value 0.593
+2 -  015.Lazuli_Bunting
+sim value 0.416
+3 -  073.Blue_Jay
+---------------------------------------------
+Top similar birds to 167.Hooded_Warbler
+sim value 0.649
+1 -  048.European_Goldfinch
+sim value 0.640
+2 -  162.Canada_Warbler
+sim value 0.638
+3 -  166.Golden_winged_Warbler
+---------------------------------------------
+Top similar birds to 185.Bohemian_Waxwing
+sim value 0.428
+1 -  106.Horned_Puffin
+sim value 0.407
+2 -  146.Forsters_Tern
+sim value 0.304
+3 -  066.Western_Gull
+---------------------------------------------
+Top similar birds to 186.Cedar_Waxwing
+sim value 0.478
+1 -  141.Artic_Tern
+sim value 0.406
+2 -  139.Scarlet_Tanager
+sim value 0.327
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 187.American_Three_toed_Woodpecker
+sim value 0.394
+1 -  105.Whip_poor_Will
+sim value 0.368
+2 -  028.Brown_Creeper
+sim value 0.314
+3 -  190.Red_cockaded_Woodpecker
+---------------------------------------------
+Top similar birds to 188.Pileated_Woodpecker
+sim value 0.520
+1 -  190.Red_cockaded_Woodpecker
+sim value 0.466
+2 -  048.European_Goldfinch
+sim value 0.454
+3 -  166.Golden_winged_Warbler
+---------------------------------------------
+Top similar birds to 189.Red_bellied_Woodpecker
+sim value 0.457
+1 -  124.Le_Conte_Sparrow
+sim value 0.438
+2 -  162.Canada_Warbler
+sim value 0.380
+3 -  113.Baird_Sparrow
+---------------------------------------------
+Top similar birds to 190.Red_cockaded_Woodpecker
+sim value 0.543
+1 -  028.Brown_Creeper
+sim value 0.370
+2 -  192.Downy_Woodpecker
+sim value 0.332
+3 -  151.Black_capped_Vireo
+---------------------------------------------
+Top similar birds to 191.Red_headed_Woodpecker
+sim value 0.676
+1 -  139.Scarlet_Tanager
+sim value 0.617
+2 -  048.European_Goldfinch
+sim value 0.604
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 192.Downy_Woodpecker
+sim value 0.546
+1 -  089.Hooded_Merganser
+sim value 0.501
+2 -  048.European_Goldfinch
+sim value 0.495
+3 -  057.Rose_breasted_Grosbeak
+---------------------------------------------
+Top similar birds to 194.Cactus_Wren
+sim value 0.481
+1 -  150.Sage_Thrasher
+sim value 0.449
+2 -  036.Northern_Flicker
+sim value 0.425
+3 -  121.Grasshopper_Sparrow
+---------------------------------------------
+Top similar birds to 032.Mangrove_Cuckoo
+sim value 0.438
+1 -  031.Black_billed_Cuckoo
+sim value 0.417
+2 -  078.Gray_Kingbird
+sim value 0.414
+3 -  138.Tree_Swallow
+---------------------------------------------
+Top similar birds to 035.Purple_Finch
+sim value 0.715
+1 -  175.Pine_Warbler
+sim value 0.610
+2 -  070.Green_Violetear
+sim value 0.558
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 040.Olive_sided_Flycatcher
+sim value 0.598
+1 -  078.Gray_Kingbird
+sim value 0.508
+2 -  102.Western_Wood_Pewee
+sim value 0.438
+3 -  080.Green_Kingfisher
+---------------------------------------------
+Top similar birds to 045.Northern_Fulmar
+sim value 0.540
+1 -  065.Slaty_backed_Gull
+sim value 0.523
+2 -  064.Ring_billed_Gull
+sim value 0.495
+3 -  084.Red_legged_Kittiwake
+---------------------------------------------
+Top similar birds to 055.Evening_Grosbeak
+sim value 0.698
+1 -  048.European_Goldfinch
+sim value 0.643
+2 -  139.Scarlet_Tanager
+sim value 0.582
+3 -  166.Golden_winged_Warbler
+---------------------------------------------
+Top similar birds to 059.California_Gull
+sim value 0.618
+1 -  084.Red_legged_Kittiwake
+sim value 0.544
+2 -  041.Scissor_tailed_Flycatcher
+sim value 0.507
+3 -  061.Heermann_Gull
+---------------------------------------------
+Top similar birds to 067.Anna_Hummingbird
+sim value 0.574
+1 -  068.Ruby_throated_Hummingbird
+sim value 0.558
+2 -  070.Green_Violetear
+sim value 0.359
+3 -  046.Gadwall
+---------------------------------------------
+Top similar birds to 068.Ruby_throated_Hummingbird
+sim value 0.574
+1 -  067.Anna_Hummingbird
+sim value 0.481
+2 -  070.Green_Violetear
+sim value 0.446
+3 -  046.Gadwall
+---------------------------------------------
+Top similar birds to 072.Pomarine_Jaeger
+sim value 0.347
+1 -  001.Black_footed_Albatross
+sim value 0.343
+2 -  068.Ruby_throated_Hummingbird
+sim value 0.324
+3 -  071.Long_tailed_Jaeger
+---------------------------------------------
+Top similar birds to 082.Ringed_Kingfisher
+sim value 0.591
+1 -  080.Green_Kingfisher
+sim value 0.509
+2 -  078.Gray_Kingbird
+sim value 0.502
+3 -  077.Tropical_Kingbird
+---------------------------------------------
+Top similar birds to 095.Baltimore_Oriole
+sim value 0.623
+1 -  139.Scarlet_Tanager
+sim value 0.612
+2 -  077.Tropical_Kingbird
+sim value 0.611
+3 -  169.Magnolia_Warbler
+---------------------------------------------
+Top similar birds to 104.American_Pipit
+sim value 0.706
+1 -  150.Sage_Thrasher
+sim value 0.623
+2 -  085.Horned_Lark
+sim value 0.588
+3 -  041.Scissor_tailed_Flycatcher
+---------------------------------------------
+Top similar birds to 111.Loggerhead_Shrike
+sim value 0.616
+1 -  112.Great_Grey_Shrike
+sim value 0.501
+2 -  135.Bank_Swallow
+sim value 0.494
+3 -  138.Tree_Swallow
+---------------------------------------------
+Top similar birds to 120.Fox_Sparrow
+sim value 0.428
+1 -  150.Sage_Thrasher
+sim value 0.428
+2 -  099.Ovenbird
+sim value 0.389
+3 -  009.Brewer_Blackbird
+---------------------------------------------
+Top similar birds to 123.Henslow_Sparrow
+sim value 0.467
+1 -  150.Sage_Thrasher
+sim value 0.465
+2 -  121.Grasshopper_Sparrow
+sim value 0.425
+3 -  124.Le_Conte_Sparrow
+---------------------------------------------
+Top similar birds to 126.Nelson_Sharp_tailed_Sparrow
+sim value 0.510
+1 -  124.Le_Conte_Sparrow
+sim value 0.404
+2 -  128.Seaside_Sparrow
+sim value 0.392
+3 -  117.Clay_colored_Sparrow
+---------------------------------------------
+Top similar birds to 128.Seaside_Sparrow
+sim value 0.480
+1 -  200.Common_Yellowthroat
+sim value 0.447
+2 -  133.White_throated_Sparrow
+sim value 0.404
+3 -  126.Nelson_Sharp_tailed_Sparrow
+---------------------------------------------
+Top similar birds to 132.White_crowned_Sparrow
+sim value 0.643
+1 -  114.Black_throated_Sparrow
+sim value 0.607
+2 -  085.Horned_Lark
+sim value 0.578
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 139.Scarlet_Tanager
+sim value 0.643
+1 -  055.Evening_Grosbeak
+sim value 0.587
+2 -  048.European_Goldfinch
+sim value 0.568
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 140.Summer_Tanager
+sim value 0.769
+1 -  139.Scarlet_Tanager
+sim value 0.638
+2 -  077.Tropical_Kingbird
+sim value 0.605
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 148.Green_tailed_Towhee
+sim value 0.530
+1 -  130.Tree_Sparrow
+sim value 0.507
+2 -  175.Pine_Warbler
+sim value 0.495
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 150.Sage_Thrasher
+sim value 0.502
+1 -  121.Grasshopper_Sparrow
+sim value 0.467
+2 -  123.Henslow_Sparrow
+sim value 0.465
+3 -  085.Horned_Lark
+---------------------------------------------
+Top similar birds to 156.White_eyed_Vireo
+sim value 0.719
+1 -  162.Canada_Warbler
+sim value 0.562
+2 -  175.Pine_Warbler
+sim value 0.557
+3 -  043.Yellow_bellied_Flycatcher
+---------------------------------------------
+Top similar birds to 166.Golden_winged_Warbler
+sim value 0.709
+1 -  048.European_Goldfinch
+sim value 0.582
+2 -  055.Evening_Grosbeak
+sim value 0.526
+3 -  200.Common_Yellowthroat
+---------------------------------------------
+Top similar birds to 177.Prothonotary_Warbler
+sim value 0.492
+1 -  139.Scarlet_Tanager
+sim value 0.446
+2 -  175.Pine_Warbler
+sim value 0.358
+3 -  077.Tropical_Kingbird
+---------------------------------------------
+Top similar birds to 180.Wilson_Warbler
+sim value 0.686
+1 -  175.Pine_Warbler
+sim value 0.649
+2 -  139.Scarlet_Tanager
+sim value 0.618
+3 -  055.Evening_Grosbeak
+---------------------------------------------
+Top similar birds to 183.Northern_Waterthrush
+sim value 0.514
+1 -  150.Sage_Thrasher
+sim value 0.400
+2 -  120.Fox_Sparrow
+sim value 0.394
+3 -  099.Ovenbird
+---------------------------------------------
+Top similar birds to 198.Rock_Wren
+sim value 0.616
+1 -  068.Ruby_throated_Hummingbird
+sim value 0.577
+2 -  199.Winter_Wren
+sim value 0.424
+3 -  067.Anna_Hummingbird
+---------------------------------------------
+Top similar birds to 199.Winter_Wren
+sim value 0.406
+1 -  195.Carolina_Wren
+sim value 0.366
+2 -  009.Brewer_Blackbird
+sim value 0.356
+3 -  022.Chuck_will_Widow
+---------------------------------------------
+Top similar birds to 200.Common_Yellowthroat
+sim value 0.526
+1 -  166.Golden_winged_Warbler
+sim value 0.480
+2 -  128.Seaside_Sparrow
+sim value 0.446
+3 -  151.Black_capped_Vireo
+---------------------------------------------
+Top similar birds to 038.Great_Crested_Flycatcher
+sim value 0.708
+1 -  077.Tropical_Kingbird
+sim value 0.681
+2 -  102.Western_Wood_Pewee
+sim value 0.551
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 044.Frigatebird
+sim value 0.524
+1 -  071.Long_tailed_Jaeger
+sim value 0.359
+2 -  080.Green_Kingfisher
+sim value 0.322
+3 -  068.Ruby_throated_Hummingbird
+---------------------------------------------
+Top similar birds to 056.Pine_Grosbeak
+sim value 0.621
+1 -  139.Scarlet_Tanager
+sim value 0.613
+2 -  175.Pine_Warbler
+sim value 0.556
+3 -  055.Evening_Grosbeak
+---------------------------------------------
+Top similar birds to 058.Pigeon_Guillemot
+sim value 0.517
+1 -  009.Brewer_Blackbird
+sim value 0.347
+2 -  120.Fox_Sparrow
+sim value 0.336
+3 -  052.Pied_billed_Grebe
+---------------------------------------------
+Top similar birds to 060.Glaucous_winged_Gull
+sim value 0.520
+1 -  061.Heermann_Gull
+sim value 0.482
+2 -  066.Western_Gull
+sim value 0.395
+3 -  065.Slaty_backed_Gull
+---------------------------------------------
+Top similar birds to 061.Heermann_Gull
+sim value 0.520
+1 -  060.Glaucous_winged_Gull
+sim value 0.479
+2 -  066.Western_Gull
+sim value 0.423
+3 -  065.Slaty_backed_Gull
+---------------------------------------------
+Top similar birds to 062.Herring_Gull
+sim value 0.570
+1 -  084.Red_legged_Kittiwake
+sim value 0.520
+2 -  065.Slaty_backed_Gull
+sim value 0.495
+3 -  045.Northern_Fulmar
+---------------------------------------------
+Top similar birds to 064.Ring_billed_Gull
+sim value 0.523
+1 -  045.Northern_Fulmar
+sim value 0.512
+2 -  065.Slaty_backed_Gull
+sim value 0.488
+3 -  084.Red_legged_Kittiwake
+---------------------------------------------
+Top similar birds to 065.Slaty_backed_Gull
+sim value 0.540
+1 -  045.Northern_Fulmar
+sim value 0.512
+2 -  064.Ring_billed_Gull
+sim value 0.447
+3 -  084.Red_legged_Kittiwake
+---------------------------------------------
+Top similar birds to 066.Western_Gull
+sim value 0.482
+1 -  060.Glaucous_winged_Gull
+sim value 0.479
+2 -  061.Heermann_Gull
+sim value 0.476
+3 -  084.Red_legged_Kittiwake
+---------------------------------------------
+Top similar birds to 071.Long_tailed_Jaeger
+sim value 0.391
+1 -  147.Least_Tern
+sim value 0.381
+2 -  106.Horned_Puffin
+sim value 0.373
+3 -  138.Tree_Swallow
+---------------------------------------------
+Top similar birds to 077.Tropical_Kingbird
+sim value 0.622
+1 -  175.Pine_Warbler
+sim value 0.555
+2 -  139.Scarlet_Tanager
+sim value 0.521
+3 -  078.Gray_Kingbird
+---------------------------------------------
+Top similar birds to 078.Gray_Kingbird
+sim value 0.614
+1 -  102.Western_Wood_Pewee
+sim value 0.521
+2 -  077.Tropical_Kingbird
+sim value 0.515
+3 -  080.Green_Kingfisher
+---------------------------------------------
+Top similar birds to 093.Clark_Nutcracker
+sim value 0.524
+1 -  132.White_crowned_Sparrow
+sim value 0.515
+2 -  102.Western_Wood_Pewee
+sim value 0.436
+3 -  108.White_necked_Raven
+---------------------------------------------
+Top similar birds to 096.Hooded_Oriole
+sim value 0.690
+1 -  139.Scarlet_Tanager
+sim value 0.629
+2 -  055.Evening_Grosbeak
+sim value 0.629
+3 -  048.European_Goldfinch
+---------------------------------------------
+Top similar birds to 098.Scott_Oriole
+sim value 0.691
+1 -  169.Magnolia_Warbler
+sim value 0.588
+2 -  055.Evening_Grosbeak
+sim value 0.522
+3 -  048.European_Goldfinch
+---------------------------------------------
+Top similar birds to 099.Ovenbird
+sim value 0.428
+1 -  120.Fox_Sparrow
+sim value 0.422
+2 -  123.Henslow_Sparrow
+sim value 0.388
+3 -  081.Pied_Kingfisher
+---------------------------------------------
+Top similar birds to 102.Western_Wood_Pewee
+sim value 0.614
+1 -  078.Gray_Kingbird
+sim value 0.576
+2 -  118.House_Sparrow
+sim value 0.480
+3 -  037.Acadian_Flycatcher
+---------------------------------------------
+Top similar birds to 103.Sayornis
+sim value 0.646
+1 -  102.Western_Wood_Pewee
+sim value 0.643
+2 -  118.House_Sparrow
+sim value 0.623
+3 -  078.Gray_Kingbird
+---------------------------------------------
+Top similar birds to 108.White_necked_Raven
+sim value 0.461
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.375
+2 -  160.Black_throated_Blue_Warbler
+sim value 0.318
+3 -  089.Hooded_Merganser
+---------------------------------------------
+Top similar birds to 109.American_Redstart
+sim value 0.478
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.466
+2 -  169.Magnolia_Warbler
+sim value 0.431
+3 -  160.Black_throated_Blue_Warbler
+---------------------------------------------
+Top similar birds to 112.Great_Grey_Shrike
+sim value 0.616
+1 -  111.Loggerhead_Shrike
+sim value 0.523
+2 -  114.Black_throated_Sparrow
+sim value 0.486
+3 -  085.Horned_Lark
+---------------------------------------------
+Top similar birds to 115.Brewer_Sparrow
+sim value 0.635
+1 -  117.Clay_colored_Sparrow
+sim value 0.485
+2 -  113.Baird_Sparrow
+sim value 0.403
+3 -  150.Sage_Thrasher
+---------------------------------------------
+Top similar birds to 118.House_Sparrow
+sim value 0.659
+1 -  130.Tree_Sparrow
+sim value 0.638
+2 -  085.Horned_Lark
+sim value 0.578
+3 -  132.White_crowned_Sparrow
+---------------------------------------------
+Top similar birds to 119.Field_Sparrow
+sim value 0.606
+1 -  137.Cliff_Swallow
+sim value 0.512
+2 -  118.House_Sparrow
+sim value 0.494
+3 -  130.Tree_Sparrow
+---------------------------------------------
+Top similar birds to 121.Grasshopper_Sparrow
+sim value 0.502
+1 -  150.Sage_Thrasher
+sim value 0.474
+2 -  130.Tree_Sparrow
+sim value 0.465
+3 -  123.Henslow_Sparrow
+---------------------------------------------
+Top similar birds to 125.Lincoln_Sparrow
+sim value 0.534
+1 -  150.Sage_Thrasher
+sim value 0.487
+2 -  123.Henslow_Sparrow
+sim value 0.464
+3 -  120.Fox_Sparrow
+---------------------------------------------
+Top similar birds to 127.Savannah_Sparrow
+sim value 0.582
+1 -  150.Sage_Thrasher
+sim value 0.542
+2 -  123.Henslow_Sparrow
+sim value 0.503
+3 -  120.Fox_Sparrow
+---------------------------------------------
+Top similar birds to 129.Song_Sparrow
+sim value 0.584
+1 -  120.Fox_Sparrow
+sim value 0.446
+2 -  128.Seaside_Sparrow
+sim value 0.437
+3 -  126.Nelson_Sharp_tailed_Sparrow
+---------------------------------------------
+Top similar birds to 131.Vesper_Sparrow
+sim value 0.610
+1 -  150.Sage_Thrasher
+sim value 0.575
+2 -  120.Fox_Sparrow
+sim value 0.502
+3 -  119.Field_Sparrow
+---------------------------------------------
+Top similar birds to 133.White_throated_Sparrow
+sim value 0.485
+1 -  168.Kentucky_Warbler
+sim value 0.473
+2 -  055.Evening_Grosbeak
+sim value 0.455
+3 -  162.Canada_Warbler
+---------------------------------------------
+Top similar birds to 135.Bank_Swallow
+sim value 0.530
+1 -  137.Cliff_Swallow
+sim value 0.501
+2 -  111.Loggerhead_Shrike
+sim value 0.490
+3 -  138.Tree_Swallow
+---------------------------------------------
+Top similar birds to 136.Barn_Swallow
+sim value 0.668
+1 -  137.Cliff_Swallow
+sim value 0.559
+2 -  055.Evening_Grosbeak
+sim value 0.545
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 137.Cliff_Swallow
+sim value 0.668
+1 -  136.Barn_Swallow
+sim value 0.606
+2 -  119.Field_Sparrow
+sim value 0.530
+3 -  135.Bank_Swallow
+---------------------------------------------
+Top similar birds to 141.Artic_Tern
+sim value 0.489
+1 -  147.Least_Tern
+sim value 0.478
+2 -  186.Cedar_Waxwing
+sim value 0.410
+3 -  106.Horned_Puffin
+---------------------------------------------
+Top similar birds to 142.Black_Tern
+sim value 0.463
+1 -  078.Gray_Kingbird
+sim value 0.453
+2 -  082.Ringed_Kingfisher
+sim value 0.438
+3 -  061.Heermann_Gull
+---------------------------------------------
+Top similar birds to 143.Caspian_Tern
+sim value 0.494
+1 -  061.Heermann_Gull
+sim value 0.484
+2 -  141.Artic_Tern
+sim value 0.426
+3 -  024.Red_faced_Cormorant
+---------------------------------------------
+Top similar birds to 144.Common_Tern
+sim value 0.469
+1 -  141.Artic_Tern
+sim value 0.412
+2 -  061.Heermann_Gull
+sim value 0.369
+3 -  024.Red_faced_Cormorant
+---------------------------------------------
+Top similar birds to 145.Elegant_Tern
+sim value 0.552
+1 -  146.Forsters_Tern
+sim value 0.548
+2 -  147.Least_Tern
+sim value 0.427
+3 -  078.Gray_Kingbird
+---------------------------------------------
+Top similar birds to 146.Forsters_Tern
+sim value 0.563
+1 -  147.Least_Tern
+sim value 0.508
+2 -  138.Tree_Swallow
+sim value 0.458
+3 -  111.Loggerhead_Shrike
+---------------------------------------------
+Top similar birds to 147.Least_Tern
+sim value 0.606
+1 -  048.European_Goldfinch
+sim value 0.589
+2 -  085.Horned_Lark
+sim value 0.573
+3 -  089.Hooded_Merganser
+---------------------------------------------
+Top similar birds to 153.Philadelphia_Vireo
+sim value 0.386
+1 -  043.Yellow_bellied_Flycatcher
+sim value 0.383
+2 -  179.Tennessee_Warbler
+sim value 0.375
+3 -  152.Blue_headed_Vireo
+---------------------------------------------
+Top similar birds to 157.Yellow_throated_Vireo
+sim value 0.768
+1 -  175.Pine_Warbler
+sim value 0.620
+2 -  156.White_eyed_Vireo
+sim value 0.576
+3 -  070.Green_Violetear
+---------------------------------------------
+Top similar birds to 158.Bay_breasted_Warbler
+sim value 0.532
+1 -  175.Pine_Warbler
+sim value 0.532
+2 -  130.Tree_Sparrow
+sim value 0.516
+3 -  048.European_Goldfinch
+---------------------------------------------
+Top similar birds to 160.Black_throated_Blue_Warbler
+sim value 0.448
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.417
+2 -  094.White_breasted_Nuthatch
+sim value 0.410
+3 -  164.Cerulean_Warbler
+---------------------------------------------
+Top similar birds to 161.Blue_winged_Warbler
+sim value 0.686
+1 -  175.Pine_Warbler
+sim value 0.632
+2 -  077.Tropical_Kingbird
+sim value 0.584
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 162.Canada_Warbler
+sim value 0.719
+1 -  156.White_eyed_Vireo
+sim value 0.661
+2 -  168.Kentucky_Warbler
+sim value 0.540
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 163.Cape_May_Warbler
+sim value 0.704
+1 -  169.Magnolia_Warbler
+sim value 0.674
+2 -  175.Pine_Warbler
+sim value 0.598
+3 -  136.Barn_Swallow
+---------------------------------------------
+Top similar birds to 165.Chestnut_sided_Warbler
+sim value 0.630
+1 -  048.European_Goldfinch
+sim value 0.588
+2 -  166.Golden_winged_Warbler
+sim value 0.557
+3 -  169.Magnolia_Warbler
+---------------------------------------------
+Top similar birds to 168.Kentucky_Warbler
+sim value 0.661
+1 -  162.Canada_Warbler
+sim value 0.530
+2 -  156.White_eyed_Vireo
+sim value 0.522
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 171.Myrtle_Warbler
+sim value 0.595
+1 -  118.House_Sparrow
+sim value 0.587
+2 -  169.Magnolia_Warbler
+sim value 0.572
+3 -  085.Horned_Lark
+---------------------------------------------
+Top similar birds to 172.Nashville_Warbler
+sim value 0.618
+1 -  162.Canada_Warbler
+sim value 0.577
+2 -  156.White_eyed_Vireo
+sim value 0.570
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 173.Orange_crowned_Warbler
+sim value 0.736
+1 -  175.Pine_Warbler
+sim value 0.568
+2 -  077.Tropical_Kingbird
+sim value 0.489
+3 -  179.Tennessee_Warbler
+---------------------------------------------
+Top similar birds to 175.Pine_Warbler
+sim value 0.622
+1 -  077.Tropical_Kingbird
+sim value 0.578
+2 -  055.Evening_Grosbeak
+sim value 0.568
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 176.Prairie_Warbler
+sim value 0.762
+1 -  169.Magnolia_Warbler
+sim value 0.675
+2 -  175.Pine_Warbler
+sim value 0.627
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 178.Swainson_Warbler
+sim value 0.470
+1 -  031.Black_billed_Cuckoo
+sim value 0.436
+2 -  043.Yellow_bellied_Flycatcher
+sim value 0.418
+3 -  068.Ruby_throated_Hummingbird
+---------------------------------------------
+Top similar birds to 181.Worm_eating_Warbler
+sim value 0.502
+1 -  178.Swainson_Warbler
+sim value 0.437
+2 -  123.Henslow_Sparrow
+sim value 0.419
+3 -  099.Ovenbird
+---------------------------------------------
+Top similar birds to 182.Yellow_Warbler
+sim value 0.618
+1 -  077.Tropical_Kingbird
+sim value 0.584
+2 -  119.Field_Sparrow
+sim value 0.556
+3 -  169.Magnolia_Warbler
+---------------------------------------------
+Top similar birds to 184.Louisiana_Waterthrush
+sim value 0.620
+1 -  178.Swainson_Warbler
+sim value 0.361
+2 -  151.Black_capped_Vireo
+sim value 0.356
+3 -  031.Black_billed_Cuckoo
+---------------------------------------------
+Top similar birds to 193.Bewick_Wren
+sim value 0.414
+1 -  178.Swainson_Warbler
+sim value 0.405
+2 -  116.Chipping_Sparrow
+sim value 0.396
+3 -  199.Winter_Wren
+---------------------------------------------
+Top similar birds to 195.Carolina_Wren
+sim value 0.406
+1 -  199.Winter_Wren
+sim value 0.390
+2 -  130.Tree_Sparrow
+sim value 0.378
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 196.House_Wren
+sim value 0.546
+1 -  199.Winter_Wren
+sim value 0.417
+2 -  178.Swainson_Warbler
+sim value 0.417
+3 -  102.Western_Wood_Pewee
+---------------------------------------------
+Top similar birds to 027.Shiny_Cowbird
+sim value 0.645
+1 -  009.Brewer_Blackbird
+sim value 0.375
+2 -  200.Common_Yellowthroat
+sim value 0.369
+3 -  057.Rose_breasted_Grosbeak
+---------------------------------------------
+Top similar birds to 029.American_Crow
+sim value 0.560
+1 -  108.White_necked_Raven
+sim value 0.339
+2 -  102.Western_Wood_Pewee
+sim value 0.323
+3 -  054.Blue_Grosbeak
+---------------------------------------------
+Top similar birds to 030.Fish_Crow
+sim value 0.496
+1 -  009.Brewer_Blackbird
+sim value 0.379
+2 -  108.White_necked_Raven
+sim value 0.376
+3 -  057.Rose_breasted_Grosbeak
+---------------------------------------------
+Top similar birds to 037.Acadian_Flycatcher
+sim value 0.507
+1 -  085.Horned_Lark
+sim value 0.480
+2 -  102.Western_Wood_Pewee
+sim value 0.462
+3 -  114.Black_throated_Sparrow
+---------------------------------------------
+Top similar birds to 039.Least_Flycatcher
+sim value 0.657
+1 -  037.Acadian_Flycatcher
+sim value 0.605
+2 -  102.Western_Wood_Pewee
+sim value 0.515
+3 -  152.Blue_headed_Vireo
+---------------------------------------------
+Top similar birds to 043.Yellow_bellied_Flycatcher
+sim value 0.557
+1 -  156.White_eyed_Vireo
+sim value 0.436
+2 -  178.Swainson_Warbler
+sim value 0.386
+3 -  153.Philadelphia_Vireo
+---------------------------------------------
+Top similar birds to 049.Boat_tailed_Grackle
+sim value 0.422
+1 -  054.Blue_Grosbeak
+sim value 0.412
+2 -  136.Barn_Swallow
+sim value 0.377
+3 -  009.Brewer_Blackbird
+---------------------------------------------
+Top similar birds to 091.Mockingbird
+sim value 0.559
+1 -  118.House_Sparrow
+sim value 0.527
+2 -  102.Western_Wood_Pewee
+sim value 0.519
+3 -  085.Horned_Lark
+---------------------------------------------
+Top similar birds to 097.Orchard_Oriole
+sim value 0.531
+1 -  136.Barn_Swallow
+sim value 0.516
+2 -  137.Cliff_Swallow
+sim value 0.497
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 107.Common_Raven
+sim value 0.602
+1 -  108.White_necked_Raven
+sim value 0.388
+2 -  102.Western_Wood_Pewee
+sim value 0.324
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 117.Clay_colored_Sparrow
+sim value 0.489
+1 -  116.Chipping_Sparrow
+sim value 0.472
+2 -  119.Field_Sparrow
+sim value 0.434
+3 -  113.Baird_Sparrow
+---------------------------------------------
+Top similar birds to 122.Harris_Sparrow
+sim value 0.559
+1 -  118.House_Sparrow
+sim value 0.553
+2 -  150.Sage_Thrasher
+sim value 0.549
+3 -  130.Tree_Sparrow
+---------------------------------------------
+Top similar birds to 130.Tree_Sparrow
+sim value 0.659
+1 -  118.House_Sparrow
+sim value 0.627
+2 -  116.Chipping_Sparrow
+sim value 0.538
+3 -  085.Horned_Lark
+---------------------------------------------
+Top similar birds to 152.Blue_headed_Vireo
+sim value 0.496
+1 -  162.Canada_Warbler
+sim value 0.464
+2 -  156.White_eyed_Vireo
+sim value 0.433
+3 -  114.Black_throated_Sparrow
+---------------------------------------------
+Top similar birds to 154.Red_eyed_Vireo
+sim value 0.456
+1 -  077.Tropical_Kingbird
+sim value 0.453
+2 -  078.Gray_Kingbird
+sim value 0.453
+3 -  031.Black_billed_Cuckoo
+---------------------------------------------
+Top similar birds to 155.Warbling_Vireo
+sim value 0.517
+1 -  153.Philadelphia_Vireo
+sim value 0.504
+2 -  031.Black_billed_Cuckoo
+sim value 0.495
+3 -  045.Northern_Fulmar
+---------------------------------------------
+Top similar birds to 169.Magnolia_Warbler
+sim value 0.572
+1 -  048.European_Goldfinch
+sim value 0.526
+2 -  162.Canada_Warbler
+sim value 0.512
+3 -  175.Pine_Warbler
+---------------------------------------------
+Top similar birds to 170.Mourning_Warbler
+sim value 0.397
+1 -  200.Common_Yellowthroat
+sim value 0.363
+2 -  136.Barn_Swallow
+sim value 0.352
+3 -  168.Kentucky_Warbler
+---------------------------------------------
+Top similar birds to 174.Palm_Warbler
+sim value 0.638
+1 -  175.Pine_Warbler
+sim value 0.628
+2 -  077.Tropical_Kingbird
+sim value 0.589
+3 -  118.House_Sparrow
+---------------------------------------------
+Top similar birds to 197.Marsh_Wren
+sim value 0.468
+1 -  199.Winter_Wren
+sim value 0.363
+2 -  068.Ruby_throated_Hummingbird
+sim value 0.362
+3 -  195.Carolina_Wren
+---------------------------------------------
+Top similar birds to 019.Gray_Catbird
+sim value 0.508
+1 -  102.Western_Wood_Pewee
+sim value 0.399
+2 -  078.Gray_Kingbird
+sim value 0.374
+3 -  170.Mourning_Warbler
+---------------------------------------------
+Top similar birds to 116.Chipping_Sparrow
+sim value 0.627
+1 -  130.Tree_Sparrow
+sim value 0.495
+2 -  114.Black_throated_Sparrow
+sim value 0.489
+3 -  117.Clay_colored_Sparrow
+---------------------------------------------
+Top similar birds to 179.Tennessee_Warbler
+sim value 0.432
+1 -  175.Pine_Warbler
+sim value 0.405
+2 -  070.Green_Violetear
+sim value 0.398
+3 -  032.Mangrove_Cuckoo
+---------------------------------------------
+Top similar birds to 023.Brandt_Cormorant
+sim value 0.442
+1 -  025.Pelagic_Cormorant
+sim value 0.347
+2 -  080.Green_Kingfisher
+sim value 0.335
+3 -  052.Pied_billed_Grebe
+---------------------------------------------
+Top similar birds to 025.Pelagic_Cormorant
+sim value 0.295
+1 -  108.White_necked_Raven
+sim value 0.234
+2 -  046.Gadwall
+sim value 0.225
+3 -  187.American_Three_toed_Woodpecker
+---------------------------------------------
+Top similar birds to 033.Yellow_billed_Cuckoo
+sim value 0.390
+1 -  179.Tennessee_Warbler
+sim value 0.334
+2 -  032.Mangrove_Cuckoo
+sim value 0.273
+3 -  031.Black_billed_Cuckoo
+---------------------------------------------
+Top similar birds to 031.Black_billed_Cuckoo
+sim value 0.470
+1 -  178.Swainson_Warbler
+sim value 0.438
+2 -  032.Mangrove_Cuckoo
+sim value 0.391
+3 -  078.Gray_Kingbird
+---------------------------------------------
+Top similar birds to 020.Yellow_breasted_Chat
+sim value 0.686
+1 -  139.Scarlet_Tanager
+sim value 0.638
+2 -  077.Tropical_Kingbird
+sim value 0.629
+3 -  162.Canada_Warbler
+---------------------------------------------
+Top similar birds to 034.Gray_crowned_Rosy_Finch
+sim value 0.513
+1 -  118.House_Sparrow
+sim value 0.481
+2 -  137.Cliff_Swallow
+sim value 0.471
+3 -  119.Field_Sparrow
+---------------------------------------------
+Top similar birds to 021.Eastern_Towhee
+sim value 0.659
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.572
+2 -  160.Black_throated_Blue_Warbler
+sim value 0.485
+3 -  146.Forsters_Tern
+---------------------------------------------
+Top similar birds to 005.Crested_Auklet
+sim value 0.474
+1 -  024.Red_faced_Cormorant
+sim value 0.429
+2 -  055.Evening_Grosbeak
+sim value 0.395
+3 -  139.Scarlet_Tanager
+---------------------------------------------
+Top similar birds to 009.Brewer_Blackbird
+sim value 0.506
+1 -  151.Black_capped_Vireo
+sim value 0.407
+2 -  200.Common_Yellowthroat
+sim value 0.389
+3 -  120.Fox_Sparrow
+---------------------------------------------
+Top similar birds to 026.Bronzed_Cowbird
+sim value 0.422
+1 -  009.Brewer_Blackbird
+sim value 0.373
+2 -  199.Winter_Wren
+sim value 0.361
+3 -  057.Rose_breasted_Grosbeak
+---------------------------------------------
+Top similar birds to 011.Rusty_Blackbird
+sim value 0.735
+1 -  009.Brewer_Blackbird
+sim value 0.459
+2 -  199.Winter_Wren
+sim value 0.451
+3 -  120.Fox_Sparrow
+---------------------------------------------
+Top similar birds to 010.Red_winged_Blackbird
+sim value 0.557
+1 -  057.Rose_breasted_Grosbeak
+sim value 0.530
+2 -  048.European_Goldfinch
+sim value 0.501
+3 -  139.Scarlet_Tanager
+---------------------------------------------

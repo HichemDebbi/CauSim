@@ -1,0 +1,726 @@
+14 false out of 59
+
+Top similar birds to cock
+
+sim value 0.581
+sim value 0.453
+sim value 0.419
+1 .   indigo_bunting
+
+2 .   European_gallinule
+
+3 .   hip
+
+---------------------------------------------
+Top similar birds to hen
+
+sim value 0.602
+sim value 0.541
+sim value 0.494
+1 .   coucal
+
+2 .   patas
+
+3 .   ptarmigan
+
+---------------------------------------------
+Top similar birds to ostrich
+
+sim value 0.594
+sim value 0.482
+sim value 0.449
+1 .   snorkel
+
+2 .   rhinoceros_beetle
+
+3 .   hartebeest
+
+ snorkel
+ is not a bird
+---------------------------------------------
+Top similar birds to brambling
+
+sim value 0.863
+sim value 0.805
+sim value 0.663
+1 .   ambulance
+
+2 .   police_van
+
+3 .   robin
+
+---------------------------------------------
+Top similar birds to goldfinch
+
+sim value 0.996
+sim value 0.993
+sim value 0.945
+1 .   junco
+
+2 .   red-backed_sandpiper
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to house_finch
+
+sim value 0.960
+sim value 0.954
+sim value 0.945
+1 .   red-backed_sandpiper
+
+2 .   junco
+
+3 .   goldfinch
+
+---------------------------------------------
+Top similar birds to junco
+
+sim value 0.998
+sim value 0.996
+sim value 0.954
+1 .   red-backed_sandpiper
+
+2 .   goldfinch
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to indigo_bunting
+
+sim value 0.614
+sim value 0.581
+sim value 0.522
+1 .   house_finch
+
+2 .   cock
+
+3 .   European_gallinule
+
+---------------------------------------------
+Top similar birds to robin
+
+sim value 0.663
+sim value 0.649
+sim value 0.611
+1 .   brambling
+
+2 .   house_finch
+
+3 .   snorkel
+
+---------------------------------------------
+Top similar birds to bulbul
+
+sim value 0.541
+sim value 0.523
+sim value 0.496
+1 .   robin
+
+2 .   house_finch
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to jay
+
+sim value 0.496
+sim value 0.472
+sim value 0.452
+1 .   bulbul
+
+2 .   oystercatcher
+
+3 .   magpie
+
+---------------------------------------------
+Top similar birds to magpie
+
+sim value 0.975
+sim value 0.925
+sim value 0.481
+1 .   redshank
+
+2 .   oystercatcher
+
+3 .   ballpoint
+
+---------------------------------------------
+Top similar birds to chickadee
+
+sim value 0.723
+sim value 0.721
+sim value 0.720
+1 .   junco
+
+2 .   red-backed_sandpiper
+
+3 .   goldfinch
+
+---------------------------------------------
+Top similar birds to water_ouzel
+
+sim value 0.902
+sim value 0.901
+sim value 0.901
+1 .   goldfinch
+
+2 .   junco
+
+3 .   red-backed_sandpiper
+
+---------------------------------------------
+Top similar birds to kite
+
+sim value 0.438
+sim value 0.436
+sim value 0.413
+1 .   wall_clock
+
+2 .   bonnet
+
+3 .   triceratops
+
+ wall_clock
+ is not a bird
+---------------------------------------------
+Top similar birds to bald_eagle
+
+sim value 0.455
+sim value 0.418
+sim value 0.414
+1 .   limpkin
+
+2 .   polecat
+
+3 .   marmoset
+
+---------------------------------------------
+Top similar birds to vulture
+
+sim value 0.645
+sim value 0.615
+sim value 0.493
+1 .   African_hunting_dog
+
+2 .   pug
+
+3 .   Border_terrier
+
+ African_hunting_dog
+ is not a bird
+---------------------------------------------
+Top similar birds to great_grey_owl
+
+sim value 0.984
+sim value 0.963
+sim value 0.870
+1 .   chain_mail
+
+2 .   African_grey
+
+3 .   grey_fox
+
+---------------------------------------------
+Top similar birds to black_grouse
+
+sim value 0.819
+sim value 0.689
+sim value 0.679
+1 .   prairie_chicken
+
+2 .   black_swan
+
+3 .   bonnet
+
+---------------------------------------------
+Top similar birds to ptarmigan
+
+sim value 0.870
+sim value 0.818
+sim value 0.494
+1 .   patas
+
+2 .   coucal
+
+3 .   hen
+
+---------------------------------------------
+Top similar birds to ruffed_grouse
+
+sim value 0.212
+sim value 0.210
+sim value 0.209
+1 .   strawberry
+
+2 .   green_snake
+
+3 .   soccer_ball
+
+ strawberry
+ is not a bird
+---------------------------------------------
+Top similar birds to prairie_chicken
+
+sim value 0.819
+sim value 0.598
+sim value 0.565
+1 .   black_grouse
+
+2 .   black_widow
+
+3 .   traffic_light
+
+---------------------------------------------
+Top similar birds to peacock
+
+sim value 0.555
+sim value 0.445
+sim value 0.434
+1 .   hornbill
+
+2 .  	lesser_panda
+
+3 .   macaque
+
+---------------------------------------------
+Top similar birds to quail
+
+sim value 0.513
+sim value 0.476
+sim value 0.455
+1 .   steam_locomotive
+
+2 .   coucal
+
+3 .   tusker
+
+---------------------------------------------
+Top similar birds to partridge
+
+sim value 0.617
+sim value 0.557
+sim value 0.461
+1 .   black_grouse
+
+2 .   coucal
+
+3 .   capuchin
+
+---------------------------------------------
+Top similar birds to African_grey
+
+sim value 0.963
+sim value 0.941
+sim value 0.834
+1 .   great_grey_owl
+
+2 .   chain_mail
+
+3 .   grey_fox
+
+---------------------------------------------
+Top similar birds to macaw
+
+sim value 0.793
+sim value 0.473
+sim value 0.442
+1 .   sleeping_bag
+
+2 .   brambling
+
+3 .   European_gallinule
+
+---------------------------------------------
+Top similar birds to sulphur-crested_cockatoo
+
+sim value 0.928
+sim value 0.819
+sim value 0.693
+1 .   white_wolf
+
+2 .   Great_Pyrenees
+
+3 .   kuvasz
+
+ white_wolf
+ is not a bird
+---------------------------------------------
+Top similar birds to lorikeet
+
+sim value 0.724
+sim value 0.501
+sim value 0.494
+1 .   drake
+
+2 .   ear
+
+3 .   bubble
+
+---------------------------------------------
+Top similar birds to coucal
+
+sim value 0.918
+sim value 0.818
+sim value 0.602
+1 .   patas
+
+2 .   ptarmigan
+
+3 .   hen
+
+---------------------------------------------
+Top similar birds to bee_eater
+
+sim value 0.697
+sim value 0.682
+sim value 0.651
+1 .   tree_frog
+
+2 .   tennis_ball
+
+3 .   Granny_Smith
+
+ tree_frog
+ is not a bird
+---------------------------------------------
+Top similar birds to hornbill
+
+sim value 0.555
+sim value 0.392
+sim value 0.366
+1 .   peacock
+
+2 .   proboscis_monkey
+
+3 .   parking_meter
+
+---------------------------------------------
+Top similar birds to hummingbird
+
+sim value 0.684
+sim value 0.668
+sim value 0.640
+1 .   chain_mail
+
+2 .   great_grey_owl
+
+3 .   barracouta
+
+---------------------------------------------
+Top similar birds to jacamar
+
+sim value 0.923
+sim value 0.918
+sim value 0.915
+1 .   Newfoundland
+
+2 .   Rottweiler
+
+3 .   Irish_setter
+
+ Newfoundland
+ is not a bird
+---------------------------------------------
+Top similar birds to toucan
+
+sim value 0.849
+sim value 0.531
+sim value 0.459
+1 .   king_penguin
+
+2 .   rock_beauty
+
+3 .   bee_eater
+
+---------------------------------------------
+Top similar birds to drake
+
+sim value 0.724
+sim value 0.584
+sim value 0.554
+1 .   lorikeet
+
+2 .   robin
+
+3 .   bee_eater
+
+---------------------------------------------
+Top similar birds to red-breasted_merganser
+
+sim value 0.730
+sim value 0.714
+sim value 0.326
+1 .   American_coot
+
+2 .   hair_spray
+
+3 .   bearskin
+
+---------------------------------------------
+Top similar birds to goose
+
+sim value 0.590
+sim value 0.520
+sim value 0.499
+1 .   American_egret
+
+2 .   black_swan
+
+3 .   bonnet
+
+---------------------------------------------
+Top similar birds to black_swan
+
+sim value 0.906
+sim value 0.882
+sim value 0.872
+1 .   bonnet
+
+2 .   wall_clock
+
+3 .   chambered_nautilus
+
+ bonnet
+ is not a bird
+---------------------------------------------
+Top similar birds to white_stork
+
+sim value 0.537
+sim value 0.350
+sim value 0.330
+1 .   teapot
+
+2 .   black_swan
+
+3 .   bonnet
+
+---------------------------------------------
+Top similar birds to black_stork
+
+sim value 0.355
+sim value 0.280
+sim value 0.229
+1 .   crutch
+
+2 .   web_site
+
+3 .   walking_stick
+
+ crutch
+ is not a bird
+---------------------------------------------
+Top similar birds to spoonbill
+
+sim value 0.865
+sim value 0.846
+sim value 0.641
+1 .   fig
+
+2 .   bloodhound
+
+3 .   shoe_shop
+
+ fig
+ is not a bird
+---------------------------------------------
+Top similar birds to flamingo
+
+sim value 1.000
+sim value 0.999
+sim value 0.947
+1 .   little_blue_heron
+
+2 .   goldfish
+
+3 .   crane
+
+---------------------------------------------
+Top similar birds to little_blue_heron
+
+sim value 1.000
+sim value 0.999
+sim value 0.946
+1 .   flamingo
+
+2 .   goldfish
+
+3 .   crane
+
+---------------------------------------------
+Top similar birds to American_egret
+
+sim value 0.661
+sim value 0.628
+sim value 0.614
+1 .   black_swan
+
+2 .   bonnet
+
+3 .   wall_clock
+
+---------------------------------------------
+Top similar birds to bittern
+
+sim value 0.495
+sim value 0.461
+sim value 0.441
+1 .   reel
+
+2 .   black_and_gold_garden_spider
+
+3 .  	kit_fox
+
+ reel
+ is not a bird
+---------------------------------------------
+Top similar birds to limpkin
+
+sim value 0.455
+sim value 0.374
+sim value 0.317
+1 .   bald_eagle
+
+2 .   boathouse
+
+3 .   white_stork
+
+---------------------------------------------
+Top similar birds to European_gallinule
+
+sim value 0.531
+sim value 0.522
+sim value 0.453
+1 .   boathouse
+
+2 .   indigo_bunting
+
+3 .   cock
+
+---------------------------------------------
+Top similar birds to American_coot
+
+sim value 0.730
+sim value 0.690
+sim value 0.631
+1 .   red-breasted_merganser
+
+2 .   hair_spray
+
+3 .   black_swan
+
+---------------------------------------------
+Top similar birds to bustard
+
+sim value 0.601
+sim value 0.593
+sim value 0.586
+1 .   bonnet
+
+2 .   African_crocodile
+
+3 .   black_swan
+
+---------------------------------------------
+Top similar birds to ruddy_turnstone
+
+sim value 0.630
+sim value 0.464
+sim value 0.438
+1 .   scorpion
+
+2 .   mantis
+
+3 .   black_swan
+
+---------------------------------------------
+Top similar birds to red-backed_sandpiper
+
+sim value 0.998
+sim value 0.993
+sim value 0.960
+1 .   junco
+
+2 .   goldfinch
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to redshank
+
+sim value 0.975
+sim value 0.866
+sim value 0.496
+1 .   magpie
+
+2 .   oystercatcher
+
+3 .   ballpoint
+
+---------------------------------------------
+Top similar birds to dowitcher
+
+sim value 0.730
+sim value 0.576
+sim value 0.480
+1 .   liner
+
+2 .   puffer
+
+3 .   Arabian_camel
+
+ liner
+ is not a bird
+---------------------------------------------
+Top similar birds to oystercatcher
+
+sim value 0.925
+sim value 0.866
+sim value 0.472
+1 .   magpie
+
+2 .   redshank
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to pelican
+
+sim value 0.519
+sim value 0.454
+sim value 0.421
+1 .   mosquito_net
+
+2 .   otter
+
+3 .   Mexican_hairless
+
+ mosquito_net
+ is not a bird
+---------------------------------------------
+Top similar birds to king_penguin
+
+sim value 0.849
+sim value 0.476
+sim value 0.473
+1 .   toucan
+
+2 .   rock_beauty
+
+3 .   maillot
+
+---------------------------------------------
+Top similar birds to albatross
+
+sim value 0.598
+sim value 0.424
+sim value 0.419
+1 .   car_wheel
+
+2 .   Great_Pyrenees
+
+3 .   white_wolf
+
+ car_wheel
+ is not a bird
+---------------------------------------------

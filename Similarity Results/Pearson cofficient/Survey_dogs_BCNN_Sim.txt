@@ -1,0 +1,944 @@
+Top similar dogs to Chihuahua
+0.49914829741728395
+0.4827244817342849
+0.4568190320855755
+1 .  Brabancon_griffon
+2 .  French_bulldog
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to Japanese_spaniel
+0.46202901125543444
+0.3985697134595726
+0.38351956047846336
+1 .  Shih-Tzu
+2 .  Tibetan_terrier
+3 .  Pekinese
+---------------------------------------------
+Top similar dogs to Maltese_dog
+0.6631901022306151
+0.45773336241082596
+0.438914142627998
+1 .  Great_Pyrenees
+2 .  soft-coated_wheaten_terrier
+3 .  Labrador_retriever
+---------------------------------------------
+Top similar dogs to Pekinese
+0.5186432312213787
+0.5005362575477281
+0.4586128925670905
+1 .  Shih-Tzu
+2 .  Brabancon_griffon
+3 .  Pomeranian
+---------------------------------------------
+Top similar dogs to Shih-Tzu
+0.5186432312213787
+0.5098661226396068
+0.3958071255395395
+1 .  Pekinese
+2 .  Brabancon_griffon
+3 .  affenpinscher
+---------------------------------------------
+Top similar dogs to Blenheim_spaniel
+0.4740812701974686
+0.46628286729420665
+0.44153633080683774
+1 .  cocker_spaniel
+2 .  Afghan_hound
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to papillon
+0.4985206155871487
+0.4420309894821525
+0.42045761038744256
+1 .  Border_collie
+2 .  Boston_bull
+3 .  Bernese_mountain_dog
+---------------------------------------------
+Top similar dogs to toy_terrier
+0.4556389324343317
+0.411246851703299
+0.3310552524761545
+1 .  Chihuahua
+2 .  Appenzeller
+3 .  wire-haired_fox_terrier
+---------------------------------------------
+Top similar dogs to Rhodesian_ridgeback
+0.652216745691372
+0.583616985757692
+0.5562333547103877
+1 .  malinois
+2 .  bull_mastiff
+3 .  Border_terrier
+---------------------------------------------
+Top similar dogs to Afghan_hound
+0.4902442863289501
+0.46628286729420665
+0.42058506382941807
+1 .  Saluki
+2 .  Blenheim_spaniel
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to basset
+0.4099249987305308
+0.40822820722054126
+0.3968419367999868
+1 .  Doberman
+2 .  bloodhound
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to beagle
+0.701716450887505
+0.6899791777122625
+0.5311255657603521
+1 .  EntleBucher
+2 .  Border_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to bloodhound
+0.2858211380993733
+0.26098300901285443
+0.25399766260883005
+1 .  Blenheim_spaniel
+2 .  Irish_setter
+3 .  Lhasa
+---------------------------------------------
+Top similar dogs to bluetick
+0.8139011702418051
+0.3406272152257213
+0.3334550068581363
+1 .  German_short-haired_pointer
+2 .  English_springer
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to black-and-tan_coonhound
+0.43607322178407576
+0.3806728656834249
+0.3442003078288939
+1 .  Doberman
+2 .  Appenzeller
+3 .  Gordon_setter
+---------------------------------------------
+Top similar dogs to Walker_hound
+0.3151362709682508
+0.3124394903987991
+0.3045928791227176
+1 .  Labrador_retriever
+2 .  Great_Pyrenees
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to English_foxhound
+0.5499331960980364
+0.5167436761978765
+0.4519791114646641
+1 .  Bernese_mountain_dog
+2 .  Appenzeller
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to redbone
+0.5709447655996106
+0.5194129465068525
+0.5110006538555765
+1 .  Border_terrier
+2 .  golden_retriever
+3 .  beagle
+---------------------------------------------
+Top similar dogs to borzoi
+0.5638634877648961
+0.42889827060804414
+0.3008823965425612
+1 .  wire-haired_fox_terrier
+2 .  Shetland_sheepdog
+3 .  Border_collie
+---------------------------------------------
+Top similar dogs to Irish_wolfhound
+0.3718958871493036
+0.3457380175936355
+0.3162289267674336
+1 .  cairn
+2 .  Dandie_Dinmont
+3 .  standard_schnauzer
+---------------------------------------------
+Top similar dogs to Italian_greyhound
+0.3859387625404645
+0.35880728994250094
+0.3445810198927516
+1 .  Pembroke
+2 .  toy_terrier
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to whippet
+0.30221494145076094
+0.27660037549253746
+0.27504871016146415
+1 .  Appenzeller
+2 .  Doberman
+3 .  Irish_wolfhound
+---------------------------------------------
+Top similar dogs to Ibizan_hound
+0.5138131100111549
+0.4620208215607844
+0.419668220744097
+1 .  Scotch_terrier
+2 .  French_bulldog
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to Norwegian_elkhound
+0.46902796484420983
+0.465695356840056
+0.2949794134526943
+1 .  malamute
+2 .  pug
+3 .  Saint_Bernard
+---------------------------------------------
+Top similar dogs to otterhound
+0.39340883036087937
+0.30579854094180275
+0.29201599724705396
+1 .  Dandie_Dinmont
+2 .  soft-coated_wheaten_terrier
+3 .  Lakeland_terrier
+---------------------------------------------
+Top similar dogs to Saluki
+0.4902442863289501
+0.4573183453001354
+0.44153633080683774
+1 .  Afghan_hound
+2 .  Gordon_setter
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Scottish_deerhound
+0.40764481635692457
+0.4049790948084325
+0.20656070572439067
+1 .  Dandie_Dinmont
+2 .  cairn
+3 .  whippet
+---------------------------------------------
+Top similar dogs to Weimaraner
+0.38445841826003474
+0.3589600944176359
+0.3313001653923505
+1 .  cairn
+2 .  beagle
+3 .  Doberman
+---------------------------------------------
+Top similar dogs to Staffordshire_bullterrier
+0.37266989343059254
+0.3107823744883117
+0.2828261037646122
+1 .  Irish_setter
+2 .  Rottweiler
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to American_Staffordshire_terrier
+0.5026003261800063
+0.4915582180327268
+0.4813574428757921
+1 .  malinois
+2 .  Rhodesian_ridgeback
+3 .  bull_mastiff
+---------------------------------------------
+Top similar dogs to Bedlington_terrier
+0.4906195118723071
+0.4845447735436265
+0.4041005894153891
+1 .  curly-coated_retriever
+2 .  kuvasz
+3 .  Great_Pyrenees
+---------------------------------------------
+Top similar dogs to Border_terrier
+0.6899791777122625
+0.6424127806771858
+0.5709447655996106
+1 .  beagle
+2 .  EntleBucher
+3 .  redbone
+---------------------------------------------
+Top similar dogs to Kerry_blue_terrier
+0.5701129153473063
+0.2941556992221231
+0.28901514807031753
+1 .  curly-coated_retriever
+2 .  miniature_poodle
+3 .  Lakeland_terrier
+---------------------------------------------
+Top similar dogs to Irish_terrier
+0.5720954749460931
+0.5031692041146125
+0.48679312801910724
+1 .  malinois
+2 .  vizsla
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Norfolk_terrier
+0.5145063702048936
+0.4737389008270045
+0.3835082052424664
+1 .  Border_terrier
+2 .  beagle
+3 .  flat-coated_retriever
+---------------------------------------------
+Top similar dogs to Norwich_terrier
+0.5063965035364234
+0.3644889589871939
+0.3641512691249309
+1 .  Leonberg
+2 .  bull_mastiff
+3 .  malinois
+---------------------------------------------
+Top similar dogs to Yorkshire_terrier
+0.40272653858134355
+0.3653514480488469
+0.3460772377620079
+1 .  affenpinscher
+2 .  Tibetan_terrier
+3 .  Afghan_hound
+---------------------------------------------
+Top similar dogs to wire-haired_fox_terrier
+0.35297844634635117
+0.3310552524761545
+0.3008690766230473
+1 .  Sealyham_terrier
+2 .  toy_terrier
+3 .  Great_Pyrenees
+---------------------------------------------
+Top similar dogs to Lakeland_terrier
+0.6016655860826747
+0.35051606022576204
+0.29201599724705396
+1 .  Airedale
+2 .  miniature_schnauzer
+3 .  otterhound
+---------------------------------------------
+Top similar dogs to Sealyham_terrier
+0.5626185433711224
+0.35297844634635117
+0.27574118978318324
+1 .  standard_schnauzer
+2 .  wire-haired_fox_terrier
+3 .  Irish_wolfhound
+---------------------------------------------
+Top similar dogs to Airedale
+0.6016655860826747
+0.2798528391914698
+0.27927943339473
+1 .  Lakeland_terrier
+2 .  vizsla
+3 .  American_Staffordshire_terrier
+---------------------------------------------
+Top similar dogs to cairn
+0.3718958871493036
+0.3511700644356076
+0.31871094314321924
+1 .  Irish_wolfhound
+2 .  West_Highland_white_terrier
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Australian_terrier
+0.582433700268327
+0.4474621147731674
+1 .  groenendael
+2 .  American_Staffordshire_terrier
+---------------------------------------------
+Top similar dogs to Dandie_Dinmont
+0.39340883036087937
+0.3457380175936355
+0.2989216733133563
+1 .  otterhound
+2 .  Irish_wolfhound
+3 .  Leonberg
+---------------------------------------------
+Top similar dogs to Boston_bull
+0.6642156418121536
+0.4568190320855755
+0.4519791114646641
+1 .  Bernese_mountain_dog
+2 .  Chihuahua
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to miniature_schnauzer
+0.35051606022576204
+0.3449315168767809
+0.2682421059281969
+1 .  Lakeland_terrier
+2 .  Pembroke
+3 .  kelpie
+---------------------------------------------
+Top similar dogs to giant_schnauzer
+0.4946316163608229
+0.487503584476614
+0.48006545629291075
+1 .  bull_mastiff
+2 .  Sussex_spaniel
+3 .  flat-coated_retriever
+---------------------------------------------
+Top similar dogs to standard_schnauzer
+0.5626185433711224
+0.34692762295697
+0.32982459395839503
+1 .  Sealyham_terrier
+2 .  American_Staffordshire_terrier
+3 .  boxer
+---------------------------------------------
+Top similar dogs to Scotch_terrier
+0.7844001881227676
+0.46764440207517693
+0.4517336310091308
+1 .  French_bulldog
+2 .  groenendael
+3 .  West_Highland_white_terrier
+---------------------------------------------
+Top similar dogs to Tibetan_terrier
+0.4245031815013156
+0.42058506382941807
+0.3825418861514926
+1 .  silky_terrier
+2 .  Afghan_hound
+3 .  Gordon_setter
+---------------------------------------------
+Top similar dogs to silky_terrier
+0.4245031815013156
+0.3883331638344959
+0.2511236552218484
+1 .  Tibetan_terrier
+2 .  Lhasa
+3 .  pug
+---------------------------------------------
+Top similar dogs to soft-coated_wheaten_terrier
+0.5074112180299808
+0.45773336241082596
+0.42485228943849707
+1 .  Great_Pyrenees
+2 .  Maltese_dog
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to West_Highland_white_terrier
+0.4517336310091308
+0.4318926148622639
+0.37358210960683763
+1 .  Scotch_terrier
+2 .  Great_Pyrenees
+3 .  Maltese_dog
+---------------------------------------------
+Top similar dogs to Lhasa
+0.3883331638344959
+0.36812372854136194
+0.3301390155348161
+1 .  silky_terrier
+2 .  Blenheim_spaniel
+3 .  toy_poodle
+---------------------------------------------
+Top similar dogs to flat-coated_retriever
+0.5497864838662245
+0.5428638233144667
+0.5228217463410829
+1 .  Newfoundland
+2 .  Border_terrier
+3 .  beagle
+---------------------------------------------
+Top similar dogs to curly-coated_retriever
+0.28639500149018965
+0.28154056875682254
+0.2761771719739822
+1 .  toy_poodle
+2 .  miniature_poodle
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to golden_retriever
+0.5684029429120009
+0.5421145343391761
+0.5311255657603521
+1 .  Border_terrier
+2 .  Labrador_retriever
+3 .  beagle
+---------------------------------------------
+Top similar dogs to Labrador_retriever
+0.5421145343391761
+0.5013572097194137
+0.438914142627998
+1 .  golden_retriever
+2 .  beagle
+3 .  Maltese_dog
+---------------------------------------------
+Top similar dogs to Chesapeake_Bay_retriever
+0.11115789576397439
+0.1084070847882962
+0.07304903248614947
+1 .  bluetick
+2 .  Siberian_husky
+3 .  African_hunting_dog
+---------------------------------------------
+Top similar dogs to German_short-haired_pointer
+0.8139011702418051
+0.472916964309702
+0.3931015495771417
+1 .  bluetick
+2 .  Border_terrier
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to vizsla
+0.6722231160703726
+0.6297079462950986
+0.5357969466951659
+1 .  bull_mastiff
+2 .  malinois
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to English_setter
+0.7419139292340665
+0.6999174771748841
+0.4077825503214527
+1 .  bluetick
+2 .  German_short-haired_pointer
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to Irish_setter
+0.45682202763235624
+0.43726092756645113
+0.42204446540542323
+1 .  Sussex_spaniel
+2 .  flat-coated_retriever
+3 .  English_springer
+---------------------------------------------
+Top similar dogs to Gordon_setter
+0.47602066385646535
+0.47096463940761213
+0.4573183453001354
+1 .  cocker_spaniel
+2 .  standard_poodle
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to Brittany_spaniel
+0.4697114645161977
+0.4321995348736125
+0.2860020537170669
+1 .  German_short-haired_pointer
+2 .  bluetick
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to clumber
+0.5090839266998533
+0.5028558629365635
+0.41981953688549495
+1 .  pug
+2 .  Saint_Bernard
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to English_springer
+0.42204446540542323
+0.4207876687020807
+0.38920388139651685
+1 .  Irish_setter
+2 .  Sussex_spaniel
+3 .  German_short-haired_pointer
+---------------------------------------------
+Top similar dogs to Welsh_springer_spaniel
+0.668582650046232
+0.5714724965095985
+0.5317693554031684
+1 .  Bernese_mountain_dog
+2 .  Boston_bull
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to cocker_spaniel
+0.5696300504546564
+0.47602066385646535
+0.4740812701974686
+1 .  standard_poodle
+2 .  Gordon_setter
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Sussex_spaniel
+0.6377593052663698
+0.6026356756202039
+0.5357969466951659
+1 .  bull_mastiff
+2 .  malinois
+3 .  vizsla
+---------------------------------------------
+Top similar dogs to Irish_water_spaniel
+0.44088880062331487
+0.3747277713311522
+0.36864276252854344
+1 .  Sussex_spaniel
+2 .  cocker_spaniel
+3 .  standard_poodle
+---------------------------------------------
+Top similar dogs to kuvasz
+0.44612697564569115
+0.42485228943849707
+0.40755066315657634
+1 .  Great_Pyrenees
+2 .  soft-coated_wheaten_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to schipperke
+0.484965892418031
+0.45719968642410497
+0.4520307220689082
+1 .  Irish_setter
+2 .  Staffordshire_bullterrier
+3 .  English_springer
+---------------------------------------------
+Top similar dogs to groenendael
+0.582433700268327
+0.46764440207517693
+1 .  Australian_terrier
+2 .  Scotch_terrier
+---------------------------------------------
+Top similar dogs to malinois
+0.6591126430655221
+0.652216745691372
+0.6297079462950986
+1 .  bull_mastiff
+2 .  Rhodesian_ridgeback
+3 .  vizsla
+---------------------------------------------
+Top similar dogs to briard
+0.41628793552503973
+0.2910320476867458
+0.28155088931084177
+1 .  otterhound
+2 .  chow
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to kelpie
+0.3684149031154993
+0.3328077682186443
+1 .  Pembroke
+2 .  Appenzeller
+---------------------------------------------
+Top similar dogs to komondor
+0.29595038307075044
+0.20368129655667125
+0.19884176712256627
+1 .  soft-coated_wheaten_terrier
+2 .  Irish_water_spaniel
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to Old_English_sheepdog
+0.502806308302074
+0.4163273532452446
+0.3828882857742785
+1 .  Tibetan_mastiff
+2 .  Bernese_mountain_dog
+3 .  Newfoundland
+---------------------------------------------
+Top similar dogs to Shetland_sheepdog
+0.38275235978881467
+0.3029927044453478
+0.30173125252442773
+1 .  Doberman
+2 .  American_Staffordshire_terrier
+3 .  Australian_terrier
+---------------------------------------------
+Top similar dogs to collie
+0.40121179584944683
+0.39412971083314446
+0.3527932839430616
+1 .  Bernese_mountain_dog
+2 .  Border_collie
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to Border_collie
+0.35055992761723903
+0.3345956738025385
+0.3185515312951922
+1 .  Siberian_husky
+2 .  flat-coated_retriever
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to Bouvier_des_Flandres
+0.21562024016907638
+0.2120042091651704
+0.18453934599550978
+1 .  Staffordshire_bullterrier
+2 .  African_hunting_dog
+3 .  otterhound
+---------------------------------------------
+Top similar dogs to Rottweiler
+0.3107823744883117
+0.2964811596757549
+0.271737965906612
+1 .  Staffordshire_bullterrier
+2 .  miniature_pinscher
+3 .  Leonberg
+---------------------------------------------
+Top similar dogs to German_shepherd
+0.530978851821513
+0.4222038814584051
+0.3501600420626894
+1 .  Leonberg
+2 .  Scotch_terrier
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to Doberman
+0.38275235978881467
+0.32703564052816714
+0.32525303678523837
+1 .  Shetland_sheepdog
+2 .  Appenzeller
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to miniature_pinscher
+0.46260714855124757
+0.32788252801677203
+0.3140044822972199
+1 .  Appenzeller
+2 .  Pembroke
+3 .  toy_terrier
+---------------------------------------------
+Top similar dogs to Greater_Swiss_Mountain_dog
+0.5675183410738803
+0.43592507765674243
+0.40953114741667956
+1 .  Bernese_mountain_dog
+2 .  English_foxhound
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to Bernese_mountain_dog
+0.6642156418121536
+0.5499331960980364
+0.3675031176216431
+1 .  Boston_bull
+2 .  English_foxhound
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Appenzeller
+0.5167436761978765
+0.4958305074416999
+0.46260714855124757
+1 .  English_foxhound
+2 .  beagle
+3 .  miniature_pinscher
+---------------------------------------------
+Top similar dogs to EntleBucher
+0.701716450887505
+0.6424127806771858
+0.4906754317896271
+1 .  beagle
+2 .  Border_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to boxer
+0.5360297039489532
+0.47486662836206156
+0.3943059650587357
+1 .  Saint_Bernard
+2 .  pug
+3 .  Border_terrier
+---------------------------------------------
+Top similar dogs to bull_mastiff
+0.6722231160703726
+0.6591126430655221
+0.6377593052663698
+1 .  vizsla
+2 .  malinois
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Tibetan_mastiff
+0.4987622667808739
+0.4005680601500516
+0.39698107554268164
+1 .  Newfoundland
+2 .  malamute
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to French_bulldog
+0.7844001881227676
+0.4827244817342849
+0.4493897346658234
+1 .  Scotch_terrier
+2 .  Chihuahua
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Great_Dane
+0.5434728960289874
+0.508848780682284
+0.4914315221017595
+1 .  bull_mastiff
+2 .  malinois
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to Saint_Bernard
+0.7667225352874467
+0.5360297039489532
+0.36396786198174824
+1 .  pug
+2 .  boxer
+3 .  bull_mastiff
+---------------------------------------------
+Top similar dogs to Eskimo_dog
+0.41165858145357276
+0.3310142197563195
+0.2521496717528112
+1 .  malamute
+2 .  Norwegian_elkhound
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to malamute
+0.46902796484420983
+0.4005680601500516
+0.2689385926901952
+1 .  Norwegian_elkhound
+2 .  Tibetan_mastiff
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to Siberian_husky
+0.42101075922307074
+0.3847390264009447
+1 .  Pembroke
+2 .  groenendael
+---------------------------------------------
+Top similar dogs to affenpinscher
+0.3958071255395395
+0.3839579292539955
+0.3101858489082314
+1 .  Shih-Tzu
+2 .  Pekinese
+3 .  Newfoundland
+---------------------------------------------
+Top similar dogs to basenji
+0.3913685854061333
+0.35557231596719163
+1 .  Boston_bull
+2 .  groenendael
+---------------------------------------------
+Top similar dogs to pug
+0.7667225352874467
+0.47486662836206156
+0.465695356840056
+1 .  Saint_Bernard
+2 .  boxer
+3 .  Norwegian_elkhound
+---------------------------------------------
+Top similar dogs to Leonberg
+0.3869744035708284
+0.335975682581803
+0.2989216733133563
+1 .  Saluki
+2 .  Tibetan_mastiff
+3 .  Dandie_Dinmont
+---------------------------------------------
+Top similar dogs to Newfoundland
+0.5497864838662245
+0.4987622667808739
+0.34382584858101173
+1 .  flat-coated_retriever
+2 .  Tibetan_mastiff
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Great_Pyrenees
+0.6631901022306151
+0.5074112180299808
+0.44612697564569115
+1 .  Maltese_dog
+2 .  soft-coated_wheaten_terrier
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to Samoyed
+0.8300938996959526
+0.5469311739536169
+0.4995638900761603
+1 .  Great_Pyrenees
+2 .  Maltese_dog
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Pomeranian
+0.4586128925670905
+0.4445345542414044
+0.3733088134004509
+1 .  Pekinese
+2 .  Chihuahua
+3 .  Pembroke
+---------------------------------------------
+Top similar dogs to chow
+0.3342030966244561
+0.3194632433109416
+0.30349489319597167
+1 .  Newfoundland
+2 .  Pekinese
+3 .  Tibetan_mastiff
+---------------------------------------------
+Top similar dogs to keeshond
+0.5552075069809012
+0.39837299080485494
+0.3631056752710153
+1 .  Norwegian_elkhound
+2 .  cairn
+3 .  malamute
+---------------------------------------------
+Top similar dogs to Brabancon_griffon
+0.5098661226396068
+0.5005362575477281
+0.49914829741728395
+1 .  Shih-Tzu
+2 .  Pekinese
+3 .  Chihuahua
+---------------------------------------------
+Top similar dogs to Pembroke
+0.42101075922307074
+0.3733088134004509
+1 .  Siberian_husky
+2 .  Pomeranian
+---------------------------------------------
+Top similar dogs to Cardigan
+0.656153295568323
+0.6417900310598315
+0.4750669115533648
+1 .  Scotch_terrier
+2 .  French_bulldog
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to toy_poodle
+0.3589676971059015
+0.3414911341535052
+0.3339767345011394
+1 .  Pomeranian
+2 .  Chihuahua
+3 .  standard_poodle
+---------------------------------------------
+Top similar dogs to miniature_poodle
+0.37003817757675955
+0.3600909994137961
+0.3499616549833516
+1 .  standard_poodle
+2 .  Blenheim_spaniel
+3 .  cocker_spaniel
+---------------------------------------------
+Top similar dogs to standard_poodle
+0.5696300504546564
+0.47096463940761213
+0.4234515246625082
+1 .  cocker_spaniel
+2 .  Gordon_setter
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Mexican_hairless
+0.371838998424135
+0.29075503423829013
+1 .  cairn
+2 .  French_bulldog
+---------------------------------------------
+Top similar dogs to dingo
+0.5093684319200621
+0.5026999401047244
+0.4911361089218899
+1 .  groenendael
+2 .  Pembroke
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to dhole
+0.38145218923993496
+0.3143346808413903
+1 .  groenendael
+2 .  Australian_terrier
+---------------------------------------------
+Top similar dogs to African_hunting_dog
+0.24748973615603095
+0.22941359606812184
+0.2120042091651704
+1 .  bluetick
+2 .  German_short-haired_pointer
+3 .  Bouvier_des_Flandres
+---------------------------------------------

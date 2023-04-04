@@ -1,0 +1,592 @@
+Top similar dogs to Chihuahua
+1 .  Brabancon_griffon
+2 .  French_bulldog
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to Japanese_spaniel
+1 .  Shih-Tzu
+2 .  Tibetan_terrier
+3 .  Pekinese
+---------------------------------------------
+Top similar dogs to Maltese_dog
+1 .  Great_Pyrenees
+2 .  soft-coated_wheaten_terrier
+3 .  Labrador_retriever
+---------------------------------------------
+Top similar dogs to Pekinese
+1 .  Shih-Tzu
+2 .  Brabancon_griffon
+3 .  Pomeranian
+---------------------------------------------
+Top similar dogs to Shih-Tzu
+1 .  Pekinese
+2 .  Brabancon_griffon
+3 .  affenpinscher
+---------------------------------------------
+Top similar dogs to Blenheim_spaniel
+1 .  cocker_spaniel
+2 .  Afghan_hound
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to papillon
+1 .  Border_collie
+2 .  Boston_bull
+3 .  Bernese_mountain_dog
+---------------------------------------------
+Top similar dogs to toy_terrier
+1 .  Chihuahua
+2 .  Appenzeller
+3 .  wire-haired_fox_terrier
+---------------------------------------------
+Top similar dogs to Rhodesian_ridgeback
+1 .  malinois
+2 .  bull_mastiff
+3 .  Border_terrier
+---------------------------------------------
+Top similar dogs to Afghan_hound
+1 .  Saluki
+2 .  Blenheim_spaniel
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to basset
+1 .  Doberman
+2 .  bloodhound
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to beagle
+1 .  EntleBucher
+2 .  Border_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to bloodhound
+1 .  Blenheim_spaniel
+2 .  Irish_setter
+3 .  Lhasa
+---------------------------------------------
+Top similar dogs to bluetick
+1 .  German_short-haired_pointer
+2 .  English_springer
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to black-and-tan_coonhound
+1 .  Doberman
+2 .  Appenzeller
+3 .  Gordon_setter
+---------------------------------------------
+Top similar dogs to Walker_hound
+1 .  Labrador_retriever
+2 .  Great_Pyrenees
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to English_foxhound
+1 .  Bernese_mountain_dog
+2 .  Appenzeller
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to redbone
+1 .  Border_terrier
+2 .  golden_retriever
+3 .  beagle
+---------------------------------------------
+Top similar dogs to borzoi
+1 .  wire-haired_fox_terrier
+2 .  Shetland_sheepdog
+3 .  Border_collie
+---------------------------------------------
+Top similar dogs to Irish_wolfhound
+1 .  cairn
+2 .  Dandie_Dinmont
+3 .  standard_schnauzer
+---------------------------------------------
+Top similar dogs to Italian_greyhound
+1 .  Pembroke
+2 .  toy_terrier
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to whippet
+1 .  Appenzeller
+2 .  Doberman
+3 .  Irish_wolfhound
+---------------------------------------------
+Top similar dogs to Ibizan_hound
+1 .  Scotch_terrier
+2 .  French_bulldog
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to Norwegian_elkhound
+1 .  malamute
+2 .  pug
+3 .  Saint_Bernard
+---------------------------------------------
+Top similar dogs to otterhound
+1 .  Dandie_Dinmont
+2 .  soft-coated_wheaten_terrier
+3 .  Lakeland_terrier
+---------------------------------------------
+Top similar dogs to Saluki
+1 .  Afghan_hound
+2 .  Gordon_setter
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Scottish_deerhound
+1 .  Dandie_Dinmont
+2 .  cairn
+3 .  whippet
+---------------------------------------------
+Top similar dogs to Weimaraner
+1 .  cairn
+2 .  beagle
+3 .  Doberman
+---------------------------------------------
+Top similar dogs to Staffordshire_bullterrier
+1 .  Irish_setter
+2 .  Rottweiler
+3 .  Appenzeller
+---------------------------------------------
+Top similar dogs to American_Staffordshire_terrier
+1 .  malinois
+2 .  Rhodesian_ridgeback
+3 .  bull_mastiff
+---------------------------------------------
+Top similar dogs to Bedlington_terrier
+1 .  curly-coated_retriever
+2 .  kuvasz
+3 .  Great_Pyrenees
+---------------------------------------------
+Top similar dogs to Border_terrier
+1 .  beagle
+2 .  EntleBucher
+3 .  redbone
+---------------------------------------------
+Top similar dogs to Kerry_blue_terrier
+1 .  curly-coated_retriever
+2 .  miniature_poodle
+3 .  Lakeland_terrier
+---------------------------------------------
+Top similar dogs to Irish_terrier
+1 .  malinois
+2 .  vizsla
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Norfolk_terrier
+1 .  Border_terrier
+2 .  beagle
+3 .  flat-coated_retriever
+---------------------------------------------
+Top similar dogs to Norwich_terrier
+1 .  Leonberg
+2 .  bull_mastiff
+3 .  malinois
+---------------------------------------------
+Top similar dogs to Yorkshire_terrier
+1 .  affenpinscher
+2 .  Tibetan_terrier
+3 .  Afghan_hound
+---------------------------------------------
+Top similar dogs to wire-haired_fox_terrier
+1 .  Sealyham_terrier
+2 .  toy_terrier
+3 .  Great_Pyrenees
+---------------------------------------------
+Top similar dogs to Lakeland_terrier
+1 .  Airedale
+2 .  miniature_schnauzer
+3 .  otterhound
+---------------------------------------------
+Top similar dogs to Sealyham_terrier
+1 .  standard_schnauzer
+2 .  wire-haired_fox_terrier
+3 .  Irish_wolfhound
+---------------------------------------------
+Top similar dogs to Airedale
+1 .  Lakeland_terrier
+2 .  vizsla
+3 .  American_Staffordshire_terrier
+---------------------------------------------
+Top similar dogs to cairn
+1 .  Irish_wolfhound
+2 .  West_Highland_white_terrier
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Australian_terrier
+1 .  groenendael
+2 .  American_Staffordshire_terrier
+---------------------------------------------
+Top similar dogs to Dandie_Dinmont
+1 .  otterhound
+2 .  Irish_wolfhound
+3 .  Leonberg
+---------------------------------------------
+Top similar dogs to Boston_bull
+1 .  Bernese_mountain_dog
+2 .  Chihuahua
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to miniature_schnauzer
+1 .  Lakeland_terrier
+2 .  Pembroke
+3 .  kelpie
+---------------------------------------------
+Top similar dogs to giant_schnauzer
+1 .  bull_mastiff
+2 .  Sussex_spaniel
+3 .  flat-coated_retriever
+---------------------------------------------
+Top similar dogs to standard_schnauzer
+1 .  Sealyham_terrier
+2 .  American_Staffordshire_terrier
+3 .  boxer
+---------------------------------------------
+Top similar dogs to Scotch_terrier
+1 .  French_bulldog
+2 .  groenendael
+3 .  West_Highland_white_terrier
+---------------------------------------------
+Top similar dogs to Tibetan_terrier
+1 .  silky_terrier
+2 .  Afghan_hound
+3 .  Gordon_setter
+---------------------------------------------
+Top similar dogs to silky_terrier
+1 .  Tibetan_terrier
+2 .  Lhasa
+3 .  pug
+---------------------------------------------
+Top similar dogs to soft-coated_wheaten_terrier
+1 .  Great_Pyrenees
+2 .  Maltese_dog
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to West_Highland_white_terrier
+1 .  Scotch_terrier
+2 .  Great_Pyrenees
+3 .  Maltese_dog
+---------------------------------------------
+Top similar dogs to Lhasa
+1 .  silky_terrier
+2 .  Blenheim_spaniel
+3 .  toy_poodle
+---------------------------------------------
+Top similar dogs to flat-coated_retriever
+1 .  Newfoundland
+2 .  Border_terrier
+3 .  beagle
+---------------------------------------------
+Top similar dogs to curly-coated_retriever
+1 .  toy_poodle
+2 .  miniature_poodle
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to golden_retriever
+1 .  Border_terrier
+2 .  Labrador_retriever
+3 .  beagle
+---------------------------------------------
+Top similar dogs to Labrador_retriever
+1 .  golden_retriever
+2 .  beagle
+3 .  Maltese_dog
+---------------------------------------------
+Top similar dogs to Chesapeake_Bay_retriever
+1 .  bluetick
+2 .  Siberian_husky
+3 .  African_hunting_dog
+---------------------------------------------
+Top similar dogs to German_short-haired_pointer
+1 .  bluetick
+2 .  Border_terrier
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to vizsla
+1 .  bull_mastiff
+2 .  malinois
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to English_setter
+1 .  bluetick
+2 .  German_short-haired_pointer
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to Irish_setter
+1 .  Sussex_spaniel
+2 .  flat-coated_retriever
+3 .  English_springer
+---------------------------------------------
+Top similar dogs to Gordon_setter
+1 .  cocker_spaniel
+2 .  standard_poodle
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to Brittany_spaniel
+1 .  German_short-haired_pointer
+2 .  bluetick
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to clumber
+1 .  pug
+2 .  Saint_Bernard
+3 .  soft-coated_wheaten_terrier
+---------------------------------------------
+Top similar dogs to English_springer
+1 .  Irish_setter
+2 .  Sussex_spaniel
+3 .  German_short-haired_pointer
+---------------------------------------------
+Top similar dogs to Welsh_springer_spaniel
+1 .  Bernese_mountain_dog
+2 .  Boston_bull
+3 .  English_foxhound
+---------------------------------------------
+Top similar dogs to cocker_spaniel
+1 .  standard_poodle
+2 .  Gordon_setter
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Sussex_spaniel
+1 .  bull_mastiff
+2 .  malinois
+3 .  vizsla
+---------------------------------------------
+Top similar dogs to Irish_water_spaniel
+1 .  Sussex_spaniel
+2 .  cocker_spaniel
+3 .  standard_poodle
+---------------------------------------------
+Top similar dogs to kuvasz
+1 .  Great_Pyrenees
+2 .  soft-coated_wheaten_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to schipperke
+1 .  Irish_setter
+2 .  Staffordshire_bullterrier
+3 .  English_springer
+---------------------------------------------
+Top similar dogs to groenendael
+1 .  Australian_terrier
+2 .  Scotch_terrier
+---------------------------------------------
+Top similar dogs to malinois
+1 .  bull_mastiff
+2 .  Rhodesian_ridgeback
+3 .  vizsla
+---------------------------------------------
+Top similar dogs to briard
+1 .  otterhound
+2 .  chow
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to kelpie
+1 .  Pembroke
+2 .  Appenzeller
+---------------------------------------------
+Top similar dogs to komondor
+1 .  soft-coated_wheaten_terrier
+2 .  Irish_water_spaniel
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to Old_English_sheepdog
+1 .  Tibetan_mastiff
+2 .  Bernese_mountain_dog
+3 .  Newfoundland
+---------------------------------------------
+Top similar dogs to Shetland_sheepdog
+1 .  Doberman
+2 .  American_Staffordshire_terrier
+3 .  Australian_terrier
+---------------------------------------------
+Top similar dogs to collie
+1 .  Bernese_mountain_dog
+2 .  Border_collie
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to Border_collie
+1 .  Siberian_husky
+2 .  flat-coated_retriever
+3 .  Tibetan_terrier
+---------------------------------------------
+Top similar dogs to Bouvier_des_Flandres
+1 .  Staffordshire_bullterrier
+2 .  African_hunting_dog
+3 .  otterhound
+---------------------------------------------
+Top similar dogs to Rottweiler
+1 .  Staffordshire_bullterrier
+2 .  miniature_pinscher
+3 .  Leonberg
+---------------------------------------------
+Top similar dogs to German_shepherd
+1 .  Leonberg
+2 .  Scotch_terrier
+3 .  Saluki
+---------------------------------------------
+Top similar dogs to Doberman
+1 .  Shetland_sheepdog
+2 .  Appenzeller
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to miniature_pinscher
+1 .  Appenzeller
+2 .  Pembroke
+3 .  toy_terrier
+---------------------------------------------
+Top similar dogs to Greater_Swiss_Mountain_dog
+1 .  Bernese_mountain_dog
+2 .  English_foxhound
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to Bernese_mountain_dog
+1 .  Boston_bull
+2 .  English_foxhound
+3 .  Blenheim_spaniel
+---------------------------------------------
+Top similar dogs to Appenzeller
+1 .  English_foxhound
+2 .  beagle
+3 .  miniature_pinscher
+---------------------------------------------
+Top similar dogs to EntleBucher
+1 .  beagle
+2 .  Border_terrier
+3 .  golden_retriever
+---------------------------------------------
+Top similar dogs to boxer
+1 .  Saint_Bernard
+2 .  pug
+3 .  Border_terrier
+---------------------------------------------
+Top similar dogs to bull_mastiff
+1 .  vizsla
+2 .  malinois
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Tibetan_mastiff
+1 .  Newfoundland
+2 .  malamute
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to French_bulldog
+1 .  Scotch_terrier
+2 .  Chihuahua
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Great_Dane
+1 .  bull_mastiff
+2 .  malinois
+3 .  Rhodesian_ridgeback
+---------------------------------------------
+Top similar dogs to Saint_Bernard
+1 .  pug
+2 .  boxer
+3 .  bull_mastiff
+---------------------------------------------
+Top similar dogs to Eskimo_dog
+1 .  malamute
+2 .  Norwegian_elkhound
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to malamute
+1 .  Norwegian_elkhound
+2 .  Tibetan_mastiff
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to Siberian_husky
+1 .  Pembroke
+2 .  groenendael
+---------------------------------------------
+Top similar dogs to affenpinscher
+1 .  Shih-Tzu
+2 .  Pekinese
+3 .  Newfoundland
+---------------------------------------------
+Top similar dogs to basenji
+1 .  Boston_bull
+2 .  groenendael
+---------------------------------------------
+Top similar dogs to pug
+1 .  Saint_Bernard
+2 .  boxer
+3 .  Norwegian_elkhound
+---------------------------------------------
+Top similar dogs to Leonberg
+1 .  Saluki
+2 .  Tibetan_mastiff
+3 .  Dandie_Dinmont
+---------------------------------------------
+Top similar dogs to Newfoundland
+1 .  flat-coated_retriever
+2 .  Tibetan_mastiff
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Great_Pyrenees
+1 .  Maltese_dog
+2 .  soft-coated_wheaten_terrier
+3 .  kuvasz
+---------------------------------------------
+Top similar dogs to Samoyed
+1 .  Great_Pyrenees
+2 .  Maltese_dog
+3 .  groenendael
+---------------------------------------------
+Top similar dogs to Pomeranian
+1 .  Pekinese
+2 .  Chihuahua
+3 .  Pembroke
+---------------------------------------------
+Top similar dogs to chow
+1 .  Newfoundland
+2 .  Pekinese
+3 .  Tibetan_mastiff
+---------------------------------------------
+Top similar dogs to keeshond
+1 .  Norwegian_elkhound
+2 .  cairn
+3 .  malamute
+---------------------------------------------
+Top similar dogs to Brabancon_griffon
+1 .  Shih-Tzu
+2 .  Pekinese
+3 .  Chihuahua
+---------------------------------------------
+Top similar dogs to Pembroke
+1 .  Siberian_husky
+2 .  Pomeranian
+---------------------------------------------
+Top similar dogs to Cardigan
+1 .  Scotch_terrier
+2 .  French_bulldog
+3 .  Boston_bull
+---------------------------------------------
+Top similar dogs to toy_poodle
+1 .  Pomeranian
+2 .  Chihuahua
+3 .  standard_poodle
+---------------------------------------------
+Top similar dogs to miniature_poodle
+1 .  standard_poodle
+2 .  Blenheim_spaniel
+3 .  cocker_spaniel
+---------------------------------------------
+Top similar dogs to standard_poodle
+1 .  cocker_spaniel
+2 .  Gordon_setter
+3 .  Sussex_spaniel
+---------------------------------------------
+Top similar dogs to Mexican_hairless
+1 .  cairn
+2 .  French_bulldog
+---------------------------------------------
+Top similar dogs to dingo
+1 .  groenendael
+2 .  Pembroke
+3 .  Siberian_husky
+---------------------------------------------
+Top similar dogs to dhole
+1 .  groenendael
+2 .  Australian_terrier
+---------------------------------------------
+Top similar dogs to African_hunting_dog
+1 .  bluetick
+2 .  German_short-haired_pointer
+3 .  Bouvier_des_Flandres
+---------------------------------------------

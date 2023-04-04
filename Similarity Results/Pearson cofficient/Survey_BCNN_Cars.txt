@@ -1,0 +1,1560 @@
+Top similar cars to AM General Hummer SUV 2000
+sim value 0.224
+1 -  Volvo C30 Hatchback 2012
+sim value 0.201
+2 -  Buick Rainier SUV 2007
+sim value 0.183
+3 -  Dodge Challenger SRT8 2011
+---------------------------------------------
+Top similar cars to Acura Integra Type R 2001
+sim value 0.269
+1 -  Chevrolet HHR SS 2010
+sim value 0.265
+2 -  Acura ZDX Hatchback 2012
+sim value 0.255
+3 -  Acura RL Sedan 2012
+---------------------------------------------
+Top similar cars to Acura RL Sedan 2012
+sim value 0.270
+1 -  Acura ZDX Hatchback 2012
+sim value 0.255
+2 -  Chevrolet Express Van 2007
+sim value 0.255
+3 -  Acura Integra Type R 2001
+---------------------------------------------
+Top similar cars to Acura TL Sedan 2012
+sim value 0.269
+1 -  Chevrolet Express Van 2007
+sim value 0.224
+2 -  Audi TTS Coupe 2012
+sim value 0.223
+3 -  Honda Odyssey Minivan 2012
+---------------------------------------------
+Top similar cars to Acura TL Type-S 2008
+sim value 0.305
+1 -  Buick Enclave SUV 2012
+sim value 0.292
+2 -  Acura RL Sedan 2012
+sim value 0.216
+3 -  Jeep Wrangler SUV 2012
+---------------------------------------------
+Top similar cars to Acura TSX Sedan 2012
+sim value 0.272
+1 -  Suzuki Aerio Sedan 2007
+sim value 0.246
+2 -  BMW 3 Series Sedan 2012
+sim value 0.222
+3 -  Audi 100 Sedan 1994
+---------------------------------------------
+Top similar cars to Acura ZDX Hatchback 2012
+sim value 0.281
+1 -  Cadillac Escalade EXT Crew Cab 2007
+sim value 0.270
+2 -  Acura RL Sedan 2012
+sim value 0.265
+3 -  Acura Integra Type R 2001
+---------------------------------------------
+Top similar cars to Aston Martin V8 Vantage Convertible 2012
+sim value 0.158
+1 -  Dodge Durango SUV 2012
+sim value 0.147
+2 -  Lamborghini Gallardo LP 570-4 Superleggera 2012
+sim value 0.140
+3 -  Mercedes-Benz SL-Class Coupe 2009
+---------------------------------------------
+Top similar cars to Aston Martin V8 Vantage Coupe 2012
+sim value 0.250
+1 -  Mercedes-Benz SL-Class Coupe 2009
+sim value 0.244
+2 -  Buick Regal GS 2012
+sim value 0.216
+3 -  Chrysler 300 SRT-8 2010
+---------------------------------------------
+Top similar cars to Aston Martin Virage Convertible 2012
+sim value 0.258
+1 -  Maybach Landaulet Convertible 2012
+sim value 0.237
+2 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.204
+3 -  Hyundai Sonata Sedan 2012
+---------------------------------------------
+Top similar cars to Aston Martin Virage Coupe 2012
+sim value 0.248
+1 -  BMW 3 Series Sedan 2012
+sim value 0.181
+2 -  Audi 100 Sedan 1994
+sim value 0.162
+3 -  Buick Regal GS 2012
+---------------------------------------------
+Top similar cars to Audi 100 Sedan 1994
+sim value 0.308
+1 -  Audi S5 Coupe 2012
+sim value 0.244
+2 -  Dodge Challenger SRT8 2011
+sim value 0.238
+3 -  Audi S5 Convertible 2012
+---------------------------------------------
+Top similar cars to Audi 100 Wagon 1994
+sim value 0.341
+1 -  Lamborghini Diablo Coupe 2001
+sim value 0.320
+2 -  Audi S4 Sedan 2007
+sim value 0.302
+3 -  Chevrolet Tahoe Hybrid SUV 2012
+---------------------------------------------
+Top similar cars to Audi A5 Coupe 2012
+sim value 0.279
+1 -  Dodge Caliber Wagon 2007
+sim value 0.243
+2 -  Tesla Model S Sedan 2012
+sim value 0.222
+3 -  Bugatti Veyron 16.4 Coupe 2009
+---------------------------------------------
+Top similar cars to Audi R8 Coupe 2012
+sim value 0.215
+1 -  Rolls-Royce Phantom Sedan 2012
+sim value 0.192
+2 -  Lamborghini Diablo Coupe 2001
+sim value 0.175
+3 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+---------------------------------------------
+Top similar cars to Audi RS 4 Convertible 2008
+sim value 0.339
+1 -  Volvo C30 Hatchback 2012
+sim value 0.307
+2 -  Cadillac CTS-V Sedan 2012
+sim value 0.279
+3 -  Audi S4 Sedan 2007
+---------------------------------------------
+Top similar cars to Audi S4 Sedan 2007
+sim value 0.320
+1 -  Audi 100 Wagon 1994
+sim value 0.279
+2 -  Audi RS 4 Convertible 2008
+sim value 0.257
+3 -  Lincoln Town Car Sedan 2011
+---------------------------------------------
+Top similar cars to Audi S4 Sedan 2012
+sim value 0.191
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.186
+2 -  Dodge Challenger SRT8 2011
+sim value 0.181
+3 -  Mercedes-Benz 300-Class Convertible 1993
+---------------------------------------------
+Top similar cars to Audi S5 Convertible 2012
+sim value 0.361
+1 -  Audi S5 Coupe 2012
+sim value 0.356
+2 -  Audi V8 Sedan 1994
+sim value 0.238
+3 -  Audi 100 Sedan 1994
+---------------------------------------------
+Top similar cars to Audi S5 Coupe 2012
+sim value 0.420
+1 -  Rolls-Royce Phantom Sedan 2012
+sim value 0.361
+2 -  Audi S5 Convertible 2012
+sim value 0.323
+3 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+---------------------------------------------
+Top similar cars to Audi S6 Sedan 2011
+sim value 0.333
+1 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.293
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.293
+3 -  Jeep Grand Cherokee SUV 2012
+---------------------------------------------
+Top similar cars to Audi TT Hatchback 2011
+sim value 0.330
+1 -  Toyota 4Runner SUV 2012
+sim value 0.303
+2 -  Dodge Durango SUV 2012
+sim value 0.281
+3 -  Buick Regal GS 2012
+---------------------------------------------
+Top similar cars to Audi TT RS Coupe 2012
+sim value 0.237
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.227
+2 -  Dodge Durango SUV 2012
+sim value 0.221
+3 -  Mercedes-Benz SL-Class Coupe 2009
+---------------------------------------------
+Top similar cars to Audi TTS Coupe 2012
+sim value 0.273
+1 -  Mitsubishi Lancer Sedan 2012
+sim value 0.265
+2 -  BMW 1 Series Convertible 2012
+sim value 0.254
+3 -  Hyundai Santa Fe SUV 2012
+---------------------------------------------
+Top similar cars to Audi V8 Sedan 1994
+sim value 0.454
+1 -  Lamborghini Diablo Coupe 2001
+sim value 0.356
+2 -  Audi S5 Convertible 2012
+sim value 0.284
+3 -  Bentley Continental GT Coupe 2012
+---------------------------------------------
+Top similar cars to BMW 1 Series Convertible 2012
+sim value 0.265
+1 -  Audi TTS Coupe 2012
+sim value 0.246
+2 -  Dodge Caravan Minivan 1997
+sim value 0.233
+3 -  Ford Expedition EL SUV 2009
+---------------------------------------------
+Top similar cars to BMW 1 Series Coupe 2012
+sim value 0.240
+1 -  Audi S6 Sedan 2011
+sim value 0.227
+2 -  BMW 3 Series Sedan 2012
+sim value 0.217
+3 -  Hyundai Sonata Hybrid Sedan 2012
+---------------------------------------------
+Top similar cars to BMW 3 Series Sedan 2012
+sim value 0.246
+1 -  Acura TSX Sedan 2012
+sim value 0.196
+2 -  Audi 100 Sedan 1994
+sim value 0.195
+3 -  BMW M6 Convertible 2010
+---------------------------------------------
+Top similar cars to BMW 3 Series Wagon 2012
+sim value 0.242
+1 -  BMW M6 Convertible 2010
+sim value 0.200
+2 -  BMW Z4 Convertible 2012
+sim value 0.197
+3 -  Audi TT RS Coupe 2012
+---------------------------------------------
+Top similar cars to BMW 6 Series Convertible 2007
+sim value 0.264
+1 -  Volvo C30 Hatchback 2012
+sim value 0.258
+2 -  Daewoo Nubira Wagon 2002
+sim value 0.195
+3 -  Honda Odyssey Minivan 2012
+---------------------------------------------
+Top similar cars to BMW ActiveHybrid 5 Sedan 2012
+sim value 0.264
+1 -  Audi A5 Coupe 2012
+sim value 0.243
+2 -  Ferrari FF Coupe 2012
+sim value 0.217
+3 -  Fisker Karma Sedan 2012
+---------------------------------------------
+Top similar cars to BMW M3 Coupe 2012
+sim value 0.296
+1 -  Hyundai Elantra Sedan 2007
+sim value 0.259
+2 -  Buick Rainier SUV 2007
+sim value 0.246
+3 -  GMC Savana Van 2012
+---------------------------------------------
+Top similar cars to BMW M5 Sedan 2010
+sim value 0.356
+1 -  Jeep Grand Cherokee SUV 2012
+sim value 0.313
+2 -  BMW X6 SUV 2012
+sim value 0.267
+3 -  Toyota Sequoia SUV 2012
+---------------------------------------------
+Top similar cars to BMW M6 Convertible 2010
+sim value 0.255
+1 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.252
+2 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.226
+3 -  Dodge Caravan Minivan 1997
+---------------------------------------------
+Top similar cars to BMW X3 SUV 2012
+sim value 0.271
+1 -  Chevrolet Tahoe Hybrid SUV 2012
+sim value 0.233
+2 -  Acura Integra Type R 2001
+sim value 0.222
+3 -  BMW Z4 Convertible 2012
+---------------------------------------------
+Top similar cars to BMW X5 SUV 2007
+sim value 0.306
+1 -  Acura ZDX Hatchback 2012
+sim value 0.262
+2 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.219
+3 -  Tesla Model S Sedan 2012
+---------------------------------------------
+Top similar cars to BMW X6 SUV 2012
+sim value 0.326
+1 -  Jeep Liberty SUV 2012
+sim value 0.321
+2 -  Hyundai Azera Sedan 2012
+sim value 0.315
+3 -  Toyota Sequoia SUV 2012
+---------------------------------------------
+Top similar cars to BMW Z4 Convertible 2012
+sim value 0.235
+1 -  Fisker Karma Sedan 2012
+sim value 0.232
+2 -  BMW M5 Sedan 2010
+sim value 0.222
+3 -  BMW X3 SUV 2012
+---------------------------------------------
+Top similar cars to Bentley Arnage Sedan 2009
+sim value 0.385
+1 -  Buick Enclave SUV 2012
+sim value 0.225
+2 -  Bentley Continental Supersports Conv. Convertible 2012
+sim value 0.206
+3 -  BMW M5 Sedan 2010
+---------------------------------------------
+Top similar cars to Bentley Continental Flying Spur Sedan 2007
+sim value 0.255
+1 -  Volvo C30 Hatchback 2012
+sim value 0.245
+2 -  Audi RS 4 Convertible 2008
+sim value 0.241
+3 -  Bentley Continental GT Coupe 2007
+---------------------------------------------
+Top similar cars to Bentley Continental GT Coupe 2007
+sim value 0.334
+1 -  Bentley Continental GT Coupe 2012
+sim value 0.329
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.324
+3 -  Ford E-Series Wagon Van 2012
+---------------------------------------------
+Top similar cars to Bentley Continental GT Coupe 2012
+sim value 0.341
+1 -  Lamborghini Diablo Coupe 2001
+sim value 0.334
+2 -  Bentley Continental GT Coupe 2007
+sim value 0.284
+3 -  Audi V8 Sedan 1994
+---------------------------------------------
+Top similar cars to Bentley Continental Supersports Conv. Convertible 2012
+sim value 0.243
+1 -  Nissan Leaf Hatchback 2012
+sim value 0.229
+2 -  GMC Savana Van 2012
+sim value 0.225
+3 -  Bentley Arnage Sedan 2009
+---------------------------------------------
+Top similar cars to Bentley Mulsanne Sedan 2011
+sim value 0.279
+1 -  Maybach Landaulet Convertible 2012
+sim value 0.272
+2 -  Bentley Continental Supersports Conv. Convertible 2012
+sim value 0.251
+3 -  Bentley Continental GT Coupe 2007
+---------------------------------------------
+Top similar cars to Bugatti Veyron 16.4 Convertible 2009
+sim value 0.326
+1 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+sim value 0.274
+2 -  Bugatti Veyron 16.4 Coupe 2009
+sim value 0.247
+3 -  Chevrolet TrailBlazer SS 2009
+---------------------------------------------
+Top similar cars to Bugatti Veyron 16.4 Coupe 2009
+sim value 0.274
+1 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.246
+2 -  Eagle Talon Hatchback 1998
+sim value 0.236
+3 -  Ford Freestar Minivan 2007
+---------------------------------------------
+Top similar cars to Buick Enclave SUV 2012
+sim value 0.385
+1 -  Bentley Arnage Sedan 2009
+sim value 0.226
+2 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+sim value 0.222
+3 -  Mercedes-Benz SL-Class Coupe 2009
+---------------------------------------------
+Top similar cars to Buick Rainier SUV 2007
+sim value 0.345
+1 -  Hyundai Elantra Sedan 2007
+sim value 0.297
+2 -  Chevrolet Corvette Ron Fellows Edition Z06 2007
+sim value 0.272
+3 -  Buick Verano Sedan 2012
+---------------------------------------------
+Top similar cars to Buick Regal GS 2012
+sim value 0.325
+1 -  Buick Verano Sedan 2012
+sim value 0.258
+2 -  Chevrolet Express Van 2007
+sim value 0.249
+3 -  Mercedes-Benz SL-Class Coupe 2009
+---------------------------------------------
+Top similar cars to Buick Verano Sedan 2012
+sim value 0.325
+1 -  Buick Regal GS 2012
+sim value 0.294
+2 -  GMC Savana Van 2012
+sim value 0.282
+3 -  Bentley Continental GT Coupe 2007
+---------------------------------------------
+Top similar cars to Cadillac CTS-V Sedan 2012
+sim value 0.307
+1 -  Audi RS 4 Convertible 2008
+sim value 0.214
+2 -  Mercedes-Benz E-Class Sedan 2012
+sim value 0.211
+3 -  Fisker Karma Sedan 2012
+---------------------------------------------
+Top similar cars to Cadillac Escalade EXT Crew Cab 2007
+sim value 0.362
+1 -  Cadillac SRX SUV 2012
+sim value 0.316
+2 -  Dodge Caliber Wagon 2007
+sim value 0.281
+3 -  Acura ZDX Hatchback 2012
+---------------------------------------------
+Top similar cars to Cadillac SRX SUV 2012
+sim value 0.362
+1 -  Cadillac Escalade EXT Crew Cab 2007
+sim value 0.289
+2 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.220
+3 -  GMC Savana Van 2012
+---------------------------------------------
+Top similar cars to Chevrolet Avalanche Crew Cab 2012
+sim value 0.310
+1 -  Dodge Challenger SRT8 2011
+sim value 0.304
+2 -  Jeep Wrangler SUV 2012
+sim value 0.271
+3 -  Ford E-Series Wagon Van 2012
+---------------------------------------------
+Top similar cars to Chevrolet Camaro Convertible 2012
+sim value 0.249
+1 -  Acura TSX Sedan 2012
+sim value 0.243
+2 -  Ford Fiesta Sedan 2012
+sim value 0.239
+3 -  Audi 100 Sedan 1994
+---------------------------------------------
+Top similar cars to Chevrolet Cobalt SS 2010
+sim value 0.296
+1 -  Ferrari FF Coupe 2012
+sim value 0.229
+2 -  Fisker Karma Sedan 2012
+sim value 0.140
+3 -  Ford Fiesta Sedan 2012
+---------------------------------------------
+Top similar cars to Chevrolet Corvette Convertible 2012
+sim value 0.361
+1 -  Suzuki Aerio Sedan 2007
+sim value 0.239
+2 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.235
+3 -  Scion xD Hatchback 2012
+---------------------------------------------
+Top similar cars to Chevrolet Corvette Ron Fellows Edition Z06 2007
+sim value 0.323
+1 -  Fisker Karma Sedan 2012
+sim value 0.297
+2 -  Buick Rainier SUV 2007
+sim value 0.249
+3 -  BMW M5 Sedan 2010
+---------------------------------------------
+Top similar cars to Chevrolet Corvette ZR1 2012
+sim value 0.222
+1 -  Acura RL Sedan 2012
+sim value 0.159
+2 -  Toyota 4Runner SUV 2012
+sim value 0.156
+3 -  Dodge Dakota Club Cab 2007
+---------------------------------------------
+Top similar cars to Chevrolet Express Cargo Van 2007
+sim value 0.271
+1 -  Nissan Juke Hatchback 2012
+sim value 0.242
+2 -  Toyota Sequoia SUV 2012
+sim value 0.215
+3 -  Audi V8 Sedan 1994
+---------------------------------------------
+Top similar cars to Chevrolet Express Van 2007
+sim value 0.269
+1 -  Acura TL Sedan 2012
+sim value 0.266
+2 -  Mercedes-Benz SL-Class Coupe 2009
+sim value 0.260
+3 -  Chevrolet Silverado 1500 Classic Extended Cab 2007
+---------------------------------------------
+Top similar cars to Chevrolet HHR SS 2010
+sim value 0.367
+1 -  Dodge Durango SUV 2012
+sim value 0.333
+2 -  Toyota Sequoia SUV 2012
+sim value 0.272
+3 -  Toyota 4Runner SUV 2012
+---------------------------------------------
+Top similar cars to Chevrolet Impala Sedan 2007
+sim value 0.256
+1 -  Hyundai Sonata Hybrid Sedan 2012
+sim value 0.249
+2 -  smart fortwo Convertible 2012
+sim value 0.218
+3 -  Mazda Tribute SUV 2011
+---------------------------------------------
+Top similar cars to Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.319
+1 -  Honda Accord Coupe 2012
+sim value 0.318
+2 -  Suzuki Aerio Sedan 2007
+sim value 0.285
+3 -  Audi 100 Wagon 1994
+---------------------------------------------
+Top similar cars to Chevrolet Malibu Sedan 2007
+sim value 0.253
+1 -  GMC Acadia SUV 2012
+sim value 0.248
+2 -  Chevrolet HHR SS 2010
+sim value 0.233
+3 -  Ram C-V Cargo Van Minivan 2012
+---------------------------------------------
+Top similar cars to Chevrolet Monte Carlo Coupe 2007
+sim value 0.193
+1 -  BMW 3 Series Sedan 2012
+sim value 0.156
+2 -  Hyundai Santa Fe SUV 2012
+sim value 0.148
+3 -  Mercedes-Benz 300-Class Convertible 1993
+---------------------------------------------
+Top similar cars to Chevrolet Silverado 1500 Classic Extended Cab 2007
+sim value 0.284
+1 -  Dodge Durango SUV 2012
+sim value 0.260
+2 -  Chevrolet Express Van 2007
+sim value 0.173
+3 -  Audi A5 Coupe 2012
+---------------------------------------------
+Top similar cars to Chevrolet Silverado 1500 Extended Cab 2012
+sim value 0.327
+1 -  Dodge Ram Pickup 3500 Quad Cab 2009
+sim value 0.182
+2 -  Chevrolet Express Cargo Van 2007
+sim value 0.175
+3 -  Audi R8 Coupe 2012
+---------------------------------------------
+Top similar cars to Chevrolet Silverado 1500 Hybrid Crew Cab 2012
+sim value 0.341
+1 -  Chevrolet HHR SS 2010
+sim value 0.275
+2 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.256
+3 -  Dodge Charger SRT-8 2009
+---------------------------------------------
+Top similar cars to Chevrolet Silverado 1500 Regular Cab 2012
+sim value 0.242
+1 -  Jeep Liberty SUV 2012
+sim value 0.206
+2 -  Isuzu Ascender SUV 2008
+sim value 0.185
+3 -  Fisker Karma Sedan 2012
+---------------------------------------------
+Top similar cars to Chevrolet Silverado 2500HD Regular Cab 2012
+sim value 0.295
+1 -  Honda Accord Coupe 2012
+sim value 0.230
+2 -  Ford Freestar Minivan 2007
+sim value 0.226
+3 -  Ford Expedition EL SUV 2009
+---------------------------------------------
+Top similar cars to Chevrolet Sonic Sedan 2012
+sim value 0.360
+1 -  Chevrolet Express Van 2007
+sim value 0.193
+2 -  Chevrolet Tahoe Hybrid SUV 2012
+sim value 0.187
+3 -  Chevrolet Silverado 1500 Classic Extended Cab 2007
+---------------------------------------------
+Top similar cars to Chevrolet Tahoe Hybrid SUV 2012
+sim value 0.302
+1 -  Audi 100 Wagon 1994
+sim value 0.284
+2 -  Suzuki SX4 Sedan 2012
+sim value 0.274
+3 -  Lamborghini Aventador Coupe 2012
+---------------------------------------------
+Top similar cars to Chevrolet TrailBlazer SS 2009
+sim value 0.247
+1 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.223
+2 -  Dodge Durango SUV 2007
+sim value 0.218
+3 -  GMC Acadia SUV 2012
+---------------------------------------------
+Top similar cars to Chevrolet Traverse SUV 2012
+sim value 0.439
+1 -  Chevrolet TrailBlazer SS 2009
+sim value 0.267
+2 -  Nissan Juke Hatchback 2012
+sim value 0.201
+3 -  Chevrolet Malibu Hybrid Sedan 2010
+---------------------------------------------
+Top similar cars to Chrysler 300 SRT-8 2010
+sim value 0.327
+1 -  Hyundai Veracruz SUV 2012
+sim value 0.282
+2 -  Audi S6 Sedan 2011
+sim value 0.282
+3 -  Chrysler Crossfire Convertible 2008
+---------------------------------------------
+Top similar cars to Chrysler Aspen SUV 2009
+sim value 0.236
+1 -  BMW X3 SUV 2012
+sim value 0.205
+2 -  Hyundai Sonata Sedan 2012
+sim value 0.204
+3 -  Audi S6 Sedan 2011
+---------------------------------------------
+Top similar cars to Chrysler Crossfire Convertible 2008
+sim value 0.317
+1 -  Mercedes-Benz SL-Class Coupe 2009
+sim value 0.306
+2 -  Ram C-V Cargo Van Minivan 2012
+sim value 0.292
+3 -  Dodge Caravan Minivan 1997
+---------------------------------------------
+Top similar cars to Chrysler Sebring Convertible 2010
+sim value 0.237
+1 -  Chrysler 300 SRT-8 2010
+sim value 0.235
+2 -  Hyundai Sonata Sedan 2012
+sim value 0.212
+3 -  Bentley Continental Supersports Conv. Convertible 2012
+---------------------------------------------
+Top similar cars to Chrysler Town and Country Minivan 2012
+sim value 0.325
+1 -  Audi S6 Sedan 2011
+sim value 0.303
+2 -  Mercedes-Benz SL-Class Coupe 2009
+sim value 0.276
+3 -  Jeep Wrangler SUV 2012
+---------------------------------------------
+Top similar cars to Daewoo Nubira Wagon 2002
+sim value 0.289
+1 -  Isuzu Ascender SUV 2008
+sim value 0.258
+2 -  BMW 6 Series Convertible 2007
+sim value 0.220
+3 -  Ford E-Series Wagon Van 2012
+---------------------------------------------
+Top similar cars to Dodge Caliber Wagon 2007
+sim value 0.316
+1 -  Cadillac Escalade EXT Crew Cab 2007
+sim value 0.308
+2 -  Dodge Durango SUV 2007
+sim value 0.284
+3 -  Ford GT Coupe 2006
+---------------------------------------------
+Top similar cars to Dodge Caliber Wagon 2012
+sim value 0.274
+1 -  Volvo 240 Sedan 1993
+sim value 0.262
+2 -  Volkswagen Golf Hatchback 1991
+sim value 0.194
+3 -  GMC Acadia SUV 2012
+---------------------------------------------
+Top similar cars to Dodge Caravan Minivan 1997
+sim value 0.292
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.285
+2 -  Ford Expedition EL SUV 2009
+sim value 0.254
+3 -  Isuzu Ascender SUV 2008
+---------------------------------------------
+Top similar cars to Dodge Challenger SRT8 2011
+sim value 0.262
+1 -  Ford E-Series Wagon Van 2012
+sim value 0.249
+2 -  Jeep Liberty SUV 2012
+sim value 0.244
+3 -  Audi 100 Sedan 1994
+---------------------------------------------
+Top similar cars to Dodge Charger SRT-8 2009
+sim value 0.273
+1 -  Ford Freestar Minivan 2007
+sim value 0.257
+2 -  Ford Expedition EL SUV 2009
+sim value 0.252
+3 -  Buick Verano Sedan 2012
+---------------------------------------------
+Top similar cars to Dodge Charger Sedan 2012
+sim value 0.385
+1 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.238
+2 -  Dodge Caravan Minivan 1997
+sim value 0.196
+3 -  Ram C-V Cargo Van Minivan 2012
+---------------------------------------------
+Top similar cars to Dodge Dakota Club Cab 2007
+sim value 0.287
+1 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.255
+2 -  Suzuki SX4 Hatchback 2012
+sim value 0.240
+3 -  Dodge Dakota Crew Cab 2010
+---------------------------------------------
+Top similar cars to Dodge Dakota Crew Cab 2010
+sim value 0.289
+1 -  Dodge Ram Pickup 3500 Crew Cab 2010
+sim value 0.283
+2 -  Ford E-Series Wagon Van 2012
+sim value 0.281
+3 -  Audi S6 Sedan 2011
+---------------------------------------------
+Top similar cars to Dodge Durango SUV 2007
+sim value 0.322
+1 -  Dodge Ram Pickup 3500 Crew Cab 2010
+sim value 0.321
+2 -  Dodge Ram Pickup 3500 Quad Cab 2009
+sim value 0.308
+3 -  Dodge Caliber Wagon 2007
+---------------------------------------------
+Top similar cars to Dodge Durango SUV 2012
+sim value 0.367
+1 -  Chevrolet HHR SS 2010
+sim value 0.284
+2 -  Chevrolet Silverado 1500 Classic Extended Cab 2007
+sim value 0.227
+3 -  Audi TT RS Coupe 2012
+---------------------------------------------
+Top similar cars to Dodge Journey SUV 2012
+sim value 0.207
+1 -  Audi R8 Coupe 2012
+sim value 0.204
+2 -  HUMMER H2 SUT Crew Cab 2009
+sim value 0.181
+3 -  Mercedes-Benz Sprinter Van 2012
+---------------------------------------------
+Top similar cars to Dodge Magnum Wagon 2008
+sim value 0.258
+1 -  Chrysler 300 SRT-8 2010
+sim value 0.249
+2 -  BMW 1 Series Convertible 2012
+sim value 0.228
+3 -  Dodge Dakota Club Cab 2007
+---------------------------------------------
+Top similar cars to Dodge Ram Pickup 3500 Crew Cab 2010
+sim value 0.322
+1 -  Dodge Durango SUV 2007
+sim value 0.293
+2 -  Fisker Karma Sedan 2012
+sim value 0.289
+3 -  Dodge Dakota Crew Cab 2010
+---------------------------------------------
+Top similar cars to Dodge Ram Pickup 3500 Quad Cab 2009
+sim value 0.321
+1 -  Dodge Durango SUV 2007
+sim value 0.227
+2 -  Audi V8 Sedan 1994
+sim value 0.213
+3 -  Mitsubishi Lancer Sedan 2012
+---------------------------------------------
+Top similar cars to Dodge Sprinter Cargo Van 2009
+sim value 0.232
+1 -  Dodge Ram Pickup 3500 Quad Cab 2009
+sim value 0.212
+2 -  Isuzu Ascender SUV 2008
+sim value 0.201
+3 -  BMW Z4 Convertible 2012
+---------------------------------------------
+Top similar cars to Eagle Talon Hatchback 1998
+sim value 0.274
+1 -  Ford Freestar Minivan 2007
+sim value 0.246
+2 -  Bugatti Veyron 16.4 Coupe 2009
+sim value 0.196
+3 -  McLaren MP4-12C Coupe 2012
+---------------------------------------------
+Top similar cars to FIAT 500 Abarth 2012
+sim value 0.181
+1 -  Fisker Karma Sedan 2012
+sim value 0.180
+2 -  Nissan Leaf Hatchback 2012
+sim value 0.177
+3 -  Mercedes-Benz C-Class Sedan 2012
+---------------------------------------------
+Top similar cars to FIAT 500 Convertible 2012
+sim value 0.307
+1 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.234
+2 -  Toyota 4Runner SUV 2012
+sim value 0.218
+3 -  BMW M3 Coupe 2012
+---------------------------------------------
+Top similar cars to Ferrari 458 Italia Convertible 2012
+sim value 0.228
+1 -  Dodge Dakota Club Cab 2007
+sim value 0.208
+2 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.194
+3 -  Chrysler Crossfire Convertible 2008
+---------------------------------------------
+Top similar cars to Ferrari 458 Italia Coupe 2012
+sim value 0.230
+1 -  Dodge Durango SUV 2007
+sim value 0.212
+2 -  Buick Regal GS 2012
+sim value 0.194
+3 -  Chevrolet Express Cargo Van 2007
+---------------------------------------------
+Top similar cars to Ferrari California Convertible 2012
+sim value 0.326
+1 -  McLaren MP4-12C Coupe 2012
+sim value 0.260
+2 -  Dodge Caliber Wagon 2012
+sim value 0.217
+3 -  Hyundai Genesis Sedan 2012
+---------------------------------------------
+Top similar cars to Ferrari FF Coupe 2012
+sim value 0.186
+1 -  Fisker Karma Sedan 2012
+sim value 0.148
+2 -  Hyundai Sonata Hybrid Sedan 2012
+sim value 0.144
+3 -  Dodge Caliber Wagon 2012
+---------------------------------------------
+Top similar cars to Fisker Karma Sedan 2012
+sim value 0.323
+1 -  Chevrolet Corvette Ron Fellows Edition Z06 2007
+sim value 0.293
+2 -  Dodge Ram Pickup 3500 Crew Cab 2010
+sim value 0.235
+3 -  BMW Z4 Convertible 2012
+---------------------------------------------
+Top similar cars to Ford E-Series Wagon Van 2012
+sim value 0.324
+1 -  Bentley Continental GT Coupe 2007
+sim value 0.316
+2 -  Hyundai Azera Sedan 2012
+sim value 0.283
+3 -  Dodge Dakota Crew Cab 2010
+---------------------------------------------
+Top similar cars to Ford Edge SUV 2012
+sim value 0.220
+1 -  Mazda Tribute SUV 2011
+sim value 0.156
+2 -  Dodge Caliber Wagon 2007
+sim value 0.155
+3 -  Dodge Durango SUV 2012
+---------------------------------------------
+Top similar cars to Ford Expedition EL SUV 2009
+sim value 0.321
+1 -  Toyota 4Runner SUV 2012
+sim value 0.285
+2 -  Dodge Caravan Minivan 1997
+sim value 0.261
+3 -  Hyundai Santa Fe SUV 2012
+---------------------------------------------
+Top similar cars to Ford F-150 Regular Cab 2007
+sim value 0.293
+1 -  Mercedes-Benz C-Class Sedan 2012
+sim value 0.279
+2 -  Toyota 4Runner SUV 2012
+sim value 0.275
+3 -  Rolls-Royce Phantom Sedan 2012
+---------------------------------------------
+Top similar cars to Ford F-150 Regular Cab 2012
+sim value 0.229
+1 -  Ford F-150 Regular Cab 2007
+sim value 0.220
+2 -  Rolls-Royce Phantom Sedan 2012
+sim value 0.216
+3 -  Ford Focus Sedan 2007
+---------------------------------------------
+Top similar cars to Ford F-450 Super Duty Crew Cab 2012
+sim value 0.253
+1 -  Dodge Dakota Crew Cab 2010
+sim value 0.231
+2 -  Toyota Sequoia SUV 2012
+sim value 0.214
+3 -  GMC Terrain SUV 2012
+---------------------------------------------
+Top similar cars to Ford Fiesta Sedan 2012
+sim value 0.200
+1 -  Ford Focus Sedan 2007
+sim value 0.179
+2 -  Hyundai Accent Sedan 2012
+sim value 0.179
+3 -  Mazda Tribute SUV 2011
+---------------------------------------------
+Top similar cars to Ford Focus Sedan 2007
+sim value 0.242
+1 -  Ford F-150 Regular Cab 2007
+sim value 0.218
+2 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.200
+3 -  Ford Fiesta Sedan 2012
+---------------------------------------------
+Top similar cars to Ford Freestar Minivan 2007
+sim value 0.274
+1 -  Eagle Talon Hatchback 1998
+sim value 0.273
+2 -  Dodge Charger SRT-8 2009
+sim value 0.236
+3 -  Bugatti Veyron 16.4 Coupe 2009
+---------------------------------------------
+Top similar cars to Ford GT Coupe 2006
+sim value 0.284
+1 -  Dodge Caliber Wagon 2007
+sim value 0.258
+2 -  Buick Rainier SUV 2007
+sim value 0.233
+3 -  Ford Freestar Minivan 2007
+---------------------------------------------
+Top similar cars to Ford Mustang Convertible 2007
+sim value 0.270
+1 -  Dodge Charger SRT-8 2009
+sim value 0.239
+2 -  Lincoln Town Car Sedan 2011
+sim value 0.234
+3 -  Volvo C30 Hatchback 2012
+---------------------------------------------
+Top similar cars to Ford Ranger SuperCab 2011
+sim value 0.239
+1 -  Hyundai Sonata Sedan 2012
+sim value 0.236
+2 -  Acura RL Sedan 2012
+sim value 0.219
+3 -  Acura Integra Type R 2001
+---------------------------------------------
+Top similar cars to GMC Acadia SUV 2012
+sim value 0.312
+1 -  Toyota Sequoia SUV 2012
+sim value 0.270
+2 -  Mazda Tribute SUV 2011
+sim value 0.243
+3 -  BMW X6 SUV 2012
+---------------------------------------------
+Top similar cars to GMC Canyon Extended Cab 2012
+sim value 0.317
+1 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.291
+2 -  Dodge Durango SUV 2012
+sim value 0.261
+3 -  Chrysler Crossfire Convertible 2008
+---------------------------------------------
+Top similar cars to GMC Savana Van 2012
+sim value 0.311
+1 -  Lamborghini Diablo Coupe 2001
+sim value 0.294
+2 -  Buick Verano Sedan 2012
+sim value 0.271
+3 -  Chevrolet Malibu Hybrid Sedan 2010
+---------------------------------------------
+Top similar cars to GMC Terrain SUV 2012
+sim value 0.245
+1 -  Ford E-Series Wagon Van 2012
+sim value 0.231
+2 -  Bentley Continental GT Coupe 2007
+sim value 0.225
+3 -  Hyundai Azera Sedan 2012
+---------------------------------------------
+Top similar cars to GMC Yukon Hybrid SUV 2012
+sim value 0.267
+1 -  GMC Acadia SUV 2012
+sim value 0.245
+2 -  Chevrolet Express Cargo Van 2007
+sim value 0.200
+3 -  Dodge Charger SRT-8 2009
+---------------------------------------------
+Top similar cars to Geo Metro Convertible 1993
+sim value 0.367
+1 -  Ford Freestar Minivan 2007
+sim value 0.257
+2 -  Mercedes-Benz 300-Class Convertible 1993
+sim value 0.254
+3 -  Eagle Talon Hatchback 1998
+---------------------------------------------
+Top similar cars to HUMMER H2 SUT Crew Cab 2009
+sim value 0.417
+1 -  Jeep Wrangler SUV 2012
+sim value 0.355
+2 -  Jeep Liberty SUV 2012
+sim value 0.211
+3 -  Mercedes-Benz S-Class Sedan 2012
+---------------------------------------------
+Top similar cars to HUMMER H3T Crew Cab 2010
+sim value 0.329
+1 -  Toyota Sequoia SUV 2012
+sim value 0.290
+2 -  Audi S6 Sedan 2011
+sim value 0.286
+3 -  BMW M5 Sedan 2010
+---------------------------------------------
+Top similar cars to Honda Accord Coupe 2012
+sim value 0.319
+1 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.270
+2 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.232
+3 -  Scion xD Hatchback 2012
+---------------------------------------------
+Top similar cars to Honda Accord Sedan 2012
+sim value 0.344
+1 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.293
+2 -  Honda Odyssey Minivan 2012
+sim value 0.253
+3 -  Ford Expedition EL SUV 2009
+---------------------------------------------
+Top similar cars to Honda Odyssey Minivan 2007
+sim value 0.288
+1 -  Honda Odyssey Minivan 2012
+sim value 0.288
+2 -  Acura Integra Type R 2001
+sim value 0.272
+3 -  Hyundai Sonata Hybrid Sedan 2012
+---------------------------------------------
+Top similar cars to Honda Odyssey Minivan 2012
+sim value 0.301
+1 -  Maybach Landaulet Convertible 2012
+sim value 0.254
+2 -  Hyundai Sonata Hybrid Sedan 2012
+sim value 0.238
+3 -  Volvo C30 Hatchback 2012
+---------------------------------------------
+Top similar cars to Hyundai Accent Sedan 2012
+sim value 0.267
+1 -  McLaren MP4-12C Coupe 2012
+sim value 0.195
+2 -  Hyundai Genesis Sedan 2012
+sim value 0.179
+3 -  Ford Fiesta Sedan 2012
+---------------------------------------------
+Top similar cars to Hyundai Azera Sedan 2012
+sim value 0.321
+1 -  BMW X6 SUV 2012
+sim value 0.316
+2 -  Ford E-Series Wagon Van 2012
+sim value 0.296
+3 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+---------------------------------------------
+Top similar cars to Hyundai Elantra Sedan 2007
+sim value 0.345
+1 -  Buick Rainier SUV 2007
+sim value 0.296
+2 -  BMW M3 Coupe 2012
+sim value 0.283
+3 -  Hyundai Azera Sedan 2012
+---------------------------------------------
+Top similar cars to Hyundai Elantra Touring Hatchback 2012
+sim value 0.269
+1 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.233
+2 -  Acura ZDX Hatchback 2012
+sim value 0.213
+3 -  Honda Accord Coupe 2012
+---------------------------------------------
+Top similar cars to Hyundai Genesis Sedan 2012
+sim value 0.274
+1 -  Maybach Landaulet Convertible 2012
+sim value 0.230
+2 -  Hyundai Elantra Sedan 2007
+sim value 0.195
+3 -  Hyundai Accent Sedan 2012
+---------------------------------------------
+Top similar cars to Hyundai Santa Fe SUV 2012
+sim value 0.269
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.261
+2 -  Ford Expedition EL SUV 2009
+sim value 0.254
+3 -  Audi TTS Coupe 2012
+---------------------------------------------
+Top similar cars to Hyundai Sonata Hybrid Sedan 2012
+sim value 0.254
+1 -  Honda Odyssey Minivan 2012
+sim value 0.203
+2 -  Dodge Caliber Wagon 2007
+sim value 0.193
+3 -  smart fortwo Convertible 2012
+---------------------------------------------
+Top similar cars to Hyundai Sonata Sedan 2012
+sim value 0.392
+1 -  Jeep Wrangler SUV 2012
+sim value 0.369
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.310
+3 -  Mercedes-Benz S-Class Sedan 2012
+---------------------------------------------
+Top similar cars to Hyundai Tucson SUV 2012
+sim value 0.329
+1 -  Hyundai Azera Sedan 2012
+sim value 0.268
+2 -  Hyundai Elantra Sedan 2007
+sim value 0.264
+3 -  Hyundai Sonata Sedan 2012
+---------------------------------------------
+Top similar cars to Hyundai Veloster Hatchback 2012
+sim value 0.181
+1 -  Ford GT Coupe 2006
+sim value 0.169
+2 -  Audi R8 Coupe 2012
+sim value 0.151
+3 -  Honda Accord Coupe 2012
+---------------------------------------------
+Top similar cars to Hyundai Veracruz SUV 2012
+sim value 0.381
+1 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.369
+2 -  Hyundai Sonata Sedan 2012
+sim value 0.329
+3 -  Bentley Continental GT Coupe 2007
+---------------------------------------------
+Top similar cars to Infiniti G Coupe IPL 2012
+sim value 0.279
+1 -  Chevrolet Silverado 1500 Classic Extended Cab 2007
+sim value 0.255
+2 -  Mercedes-Benz SL-Class Coupe 2009
+sim value 0.249
+3 -  Acura RL Sedan 2012
+---------------------------------------------
+Top similar cars to Infiniti QX56 SUV 2011
+sim value 0.252
+1 -  Toyota Sequoia SUV 2012
+sim value 0.223
+2 -  BMW X3 SUV 2012
+sim value 0.217
+3 -  Toyota 4Runner SUV 2012
+---------------------------------------------
+Top similar cars to Isuzu Ascender SUV 2008
+sim value 0.289
+1 -  Daewoo Nubira Wagon 2002
+sim value 0.254
+2 -  Dodge Caravan Minivan 1997
+sim value 0.224
+3 -  Ford F-150 Regular Cab 2007
+---------------------------------------------
+Top similar cars to Jaguar XK XKR 2012
+sim value 0.267
+1 -  BMW 3 Series Sedan 2012
+sim value 0.235
+2 -  BMW M6 Convertible 2010
+sim value 0.218
+3 -  BMW 1 Series Convertible 2012
+---------------------------------------------
+Top similar cars to Jeep Compass SUV 2012
+sim value 0.378
+1 -  Jeep Liberty SUV 2012
+sim value 0.365
+2 -  Volvo C30 Hatchback 2012
+sim value 0.364
+3 -  HUMMER H2 SUT Crew Cab 2009
+---------------------------------------------
+Top similar cars to Jeep Grand Cherokee SUV 2012
+sim value 0.356
+1 -  BMW M5 Sedan 2010
+sim value 0.293
+2 -  Audi S6 Sedan 2011
+sim value 0.232
+3 -  Dodge Charger SRT-8 2009
+---------------------------------------------
+Top similar cars to Jeep Liberty SUV 2012
+sim value 0.356
+1 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.355
+2 -  HUMMER H2 SUT Crew Cab 2009
+sim value 0.326
+3 -  BMW X6 SUV 2012
+---------------------------------------------
+Top similar cars to Jeep Patriot SUV 2012
+sim value 0.364
+1 -  Jeep Liberty SUV 2012
+sim value 0.349
+2 -  Jeep Wrangler SUV 2012
+sim value 0.278
+3 -  Chevrolet Corvette Ron Fellows Edition Z06 2007
+---------------------------------------------
+Top similar cars to Jeep Wrangler SUV 2012
+sim value 0.417
+1 -  HUMMER H2 SUT Crew Cab 2009
+sim value 0.392
+2 -  Hyundai Sonata Sedan 2012
+sim value 0.294
+3 -  Jeep Liberty SUV 2012
+---------------------------------------------
+Top similar cars to Lamborghini Aventador Coupe 2012
+sim value 0.283
+1 -  Audi 100 Wagon 1994
+sim value 0.274
+2 -  Chevrolet Tahoe Hybrid SUV 2012
+sim value 0.269
+3 -  Lamborghini Diablo Coupe 2001
+---------------------------------------------
+Top similar cars to Lamborghini Diablo Coupe 2001
+sim value 0.454
+1 -  Audi V8 Sedan 1994
+sim value 0.341
+2 -  Bentley Continental GT Coupe 2012
+sim value 0.341
+3 -  Audi 100 Wagon 1994
+---------------------------------------------
+Top similar cars to Lamborghini Gallardo LP 570-4 Superleggera 2012
+sim value 0.205
+1 -  Audi V8 Sedan 1994
+sim value 0.179
+2 -  Audi S4 Sedan 2007
+sim value 0.167
+3 -  Lamborghini Aventador Coupe 2012
+---------------------------------------------
+Top similar cars to Lamborghini Reventon Coupe 2008
+sim value 0.368
+1 -  Acura TSX Sedan 2012
+sim value 0.242
+2 -  Audi 100 Sedan 1994
+sim value 0.209
+3 -  Acura Integra Type R 2001
+---------------------------------------------
+Top similar cars to Land Rover LR2 SUV 2012
+sim value 0.298
+1 -  Chrysler 300 SRT-8 2010
+sim value 0.236
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.225
+3 -  Toyota 4Runner SUV 2012
+---------------------------------------------
+Top similar cars to Land Rover Range Rover SUV 2012
+sim value 0.327
+1 -  GMC Acadia SUV 2012
+sim value 0.305
+2 -  Mazda Tribute SUV 2011
+sim value 0.257
+3 -  Dodge Durango SUV 2012
+---------------------------------------------
+Top similar cars to Lincoln Town Car Sedan 2011
+sim value 0.257
+1 -  Audi S4 Sedan 2007
+sim value 0.244
+2 -  Maybach Landaulet Convertible 2012
+sim value 0.229
+3 -  Ford Expedition EL SUV 2009
+---------------------------------------------
+Top similar cars to MINI Cooper Roadster Convertible 2012
+sim value 0.225
+1 -  Ford F-150 Regular Cab 2007
+sim value 0.215
+2 -  Ford E-Series Wagon Van 2012
+sim value 0.205
+3 -  Bentley Arnage Sedan 2009
+---------------------------------------------
+Top similar cars to Maybach Landaulet Convertible 2012
+sim value 0.301
+1 -  Honda Odyssey Minivan 2012
+sim value 0.274
+2 -  Hyundai Genesis Sedan 2012
+sim value 0.244
+3 -  Lincoln Town Car Sedan 2011
+---------------------------------------------
+Top similar cars to Mazda Tribute SUV 2011
+sim value 0.410
+1 -  Toyota Sequoia SUV 2012
+sim value 0.277
+2 -  Ford E-Series Wagon Van 2012
+sim value 0.273
+3 -  BMW X6 SUV 2012
+---------------------------------------------
+Top similar cars to McLaren MP4-12C Coupe 2012
+sim value 0.267
+1 -  Hyundai Accent Sedan 2012
+sim value 0.211
+2 -  Suzuki SX4 Sedan 2012
+sim value 0.209
+3 -  Buick Rainier SUV 2007
+---------------------------------------------
+Top similar cars to Mercedes-Benz 300-Class Convertible 1993
+sim value 0.221
+1 -  Hyundai Santa Fe SUV 2012
+sim value 0.198
+2 -  Ford Expedition EL SUV 2009
+sim value 0.143
+3 -  Ferrari FF Coupe 2012
+---------------------------------------------
+Top similar cars to Mercedes-Benz C-Class Sedan 2012
+sim value 0.293
+1 -  Ford F-150 Regular Cab 2007
+sim value 0.279
+2 -  Mercedes-Benz E-Class Sedan 2012
+sim value 0.263
+3 -  Mercedes-Benz S-Class Sedan 2012
+---------------------------------------------
+Top similar cars to Mercedes-Benz E-Class Sedan 2012
+sim value 0.305
+1 -  Hyundai Sonata Sedan 2012
+sim value 0.279
+2 -  Mercedes-Benz C-Class Sedan 2012
+sim value 0.265
+3 -  Hyundai Veracruz SUV 2012
+---------------------------------------------
+Top similar cars to Mercedes-Benz S-Class Sedan 2012
+sim value 0.381
+1 -  Hyundai Veracruz SUV 2012
+sim value 0.356
+2 -  Jeep Liberty SUV 2012
+sim value 0.333
+3 -  Audi S6 Sedan 2011
+---------------------------------------------
+Top similar cars to Mercedes-Benz SL-Class Coupe 2009
+sim value 0.317
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.293
+2 -  Mercedes-Benz S-Class Sedan 2012
+sim value 0.270
+3 -  Chrysler 300 SRT-8 2010
+---------------------------------------------
+Top similar cars to Mercedes-Benz Sprinter Van 2012
+sim value 0.291
+1 -  Suzuki Aerio Sedan 2007
+sim value 0.279
+2 -  Nissan Juke Hatchback 2012
+sim value 0.270
+3 -  Honda Accord Coupe 2012
+---------------------------------------------
+Top similar cars to Mitsubishi Lancer Sedan 2012
+sim value 0.360
+1 -  Nissan 240SX Coupe 1998
+sim value 0.273
+2 -  Audi TTS Coupe 2012
+sim value 0.222
+3 -  Acura TL Sedan 2012
+---------------------------------------------
+Top similar cars to Nissan 240SX Coupe 1998
+sim value 0.360
+1 -  Mitsubishi Lancer Sedan 2012
+sim value 0.200
+2 -  Hyundai Elantra Touring Hatchback 2012
+sim value 0.191
+3 -  Bentley Continental GT Coupe 2007
+---------------------------------------------
+Top similar cars to Nissan Juke Hatchback 2012
+sim value 0.279
+1 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.271
+2 -  Chevrolet Express Cargo Van 2007
+sim value 0.247
+3 -  Nissan Leaf Hatchback 2012
+---------------------------------------------
+Top similar cars to Nissan Leaf Hatchback 2012
+sim value 0.280
+1 -  Suzuki Kizashi Sedan 2012
+sim value 0.247
+2 -  Nissan Juke Hatchback 2012
+sim value 0.243
+3 -  Bentley Continental Supersports Conv. Convertible 2012
+---------------------------------------------
+Top similar cars to Nissan NV Passenger Van 2012
+sim value 0.257
+1 -  Acura TL Sedan 2012
+sim value 0.256
+2 -  Eagle Talon Hatchback 1998
+sim value 0.197
+3 -  Chevrolet Express Van 2007
+---------------------------------------------
+Top similar cars to Plymouth Neon Coupe 1999
+sim value 0.240
+1 -  smart fortwo Convertible 2012
+sim value 0.200
+2 -  Eagle Talon Hatchback 1998
+sim value 0.191
+3 -  Volkswagen Golf Hatchback 1991
+---------------------------------------------
+Top similar cars to Porsche Panamera Sedan 2012
+sim value 0.300
+1 -  Hyundai Azera Sedan 2012
+sim value 0.259
+2 -  Audi S5 Coupe 2012
+sim value 0.244
+3 -  BMW 1 Series Convertible 2012
+---------------------------------------------
+Top similar cars to Ram C-V Cargo Van Minivan 2012
+sim value 0.306
+1 -  Chrysler Crossfire Convertible 2008
+sim value 0.248
+2 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.218
+3 -  Nissan Juke Hatchback 2012
+---------------------------------------------
+Top similar cars to Rolls-Royce Ghost Sedan 2012
+sim value 0.201
+1 -  Dodge Durango SUV 2012
+sim value 0.188
+2 -  Bentley Arnage Sedan 2009
+sim value 0.184
+3 -  BMW 1 Series Convertible 2012
+---------------------------------------------
+Top similar cars to Rolls-Royce Phantom Drophead Coupe Convertible 2012
+sim value 0.326
+1 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.323
+2 -  Audi S5 Coupe 2012
+sim value 0.311
+3 -  Rolls-Royce Phantom Sedan 2012
+---------------------------------------------
+Top similar cars to Rolls-Royce Phantom Sedan 2012
+sim value 0.420
+1 -  Audi S5 Coupe 2012
+sim value 0.311
+2 -  Rolls-Royce Phantom Drophead Coupe Convertible 2012
+sim value 0.275
+3 -  Ford F-150 Regular Cab 2007
+---------------------------------------------
+Top similar cars to Scion xD Hatchback 2012
+sim value 0.308
+1 -  Toyota Sequoia SUV 2012
+sim value 0.243
+2 -  Acura ZDX Hatchback 2012
+sim value 0.232
+3 -  Honda Accord Coupe 2012
+---------------------------------------------
+Top similar cars to Spyker C8 Convertible 2009
+sim value 0.238
+1 -  Eagle Talon Hatchback 1998
+sim value 0.223
+2 -  GMC Savana Van 2012
+sim value 0.202
+3 -  Spyker C8 Coupe 2009
+---------------------------------------------
+Top similar cars to Spyker C8 Coupe 2009
+sim value 0.181
+1 -  Cadillac SRX SUV 2012
+sim value 0.158
+2 -  Ford E-Series Wagon Van 2012
+sim value 0.149
+3 -  Jeep Grand Cherokee SUV 2012
+---------------------------------------------
+Top similar cars to Suzuki Aerio Sedan 2007
+sim value 0.318
+1 -  Chevrolet Malibu Hybrid Sedan 2010
+sim value 0.291
+2 -  Mercedes-Benz Sprinter Van 2012
+sim value 0.283
+3 -  Suzuki SX4 Sedan 2012
+---------------------------------------------
+Top similar cars to Suzuki Kizashi Sedan 2012
+sim value 0.280
+1 -  Nissan Leaf Hatchback 2012
+sim value 0.210
+2 -  Chrysler 300 SRT-8 2010
+sim value 0.187
+3 -  Toyota 4Runner SUV 2012
+---------------------------------------------
+Top similar cars to Suzuki SX4 Hatchback 2012
+sim value 0.338
+1 -  Suzuki SX4 Sedan 2012
+sim value 0.289
+2 -  Jeep Wrangler SUV 2012
+sim value 0.255
+3 -  Dodge Dakota Club Cab 2007
+---------------------------------------------
+Top similar cars to Suzuki SX4 Sedan 2012
+sim value 0.338
+1 -  Suzuki SX4 Hatchback 2012
+sim value 0.284
+2 -  Chevrolet Tahoe Hybrid SUV 2012
+sim value 0.283
+3 -  Suzuki Aerio Sedan 2007
+---------------------------------------------
+Top similar cars to Tesla Model S Sedan 2012
+sim value 0.243
+1 -  Audi A5 Coupe 2012
+sim value 0.195
+2 -  Hyundai Sonata Sedan 2012
+sim value 0.177
+3 -  Hyundai Elantra Sedan 2007
+---------------------------------------------
+Top similar cars to Toyota 4Runner SUV 2012
+sim value 0.321
+1 -  Ford Expedition EL SUV 2009
+sim value 0.284
+2 -  Hyundai Azera Sedan 2012
+sim value 0.279
+3 -  Ford F-150 Regular Cab 2007
+---------------------------------------------
+Top similar cars to Toyota Camry Sedan 2012
+sim value 0.245
+1 -  Mitsubishi Lancer Sedan 2012
+sim value 0.214
+2 -  Acura RL Sedan 2012
+sim value 0.202
+3 -  Ford Ranger SuperCab 2011
+---------------------------------------------
+Top similar cars to Toyota Corolla Sedan 2012
+sim value 0.222
+1 -  GMC Terrain SUV 2012
+sim value 0.221
+2 -  Hyundai Sonata Hybrid Sedan 2012
+sim value 0.167
+3 -  Acura TSX Sedan 2012
+---------------------------------------------
+Top similar cars to Toyota Sequoia SUV 2012
+sim value 0.410
+1 -  Mazda Tribute SUV 2011
+sim value 0.333
+2 -  Chevrolet HHR SS 2010
+sim value 0.315
+3 -  BMW X6 SUV 2012
+---------------------------------------------
+Top similar cars to Volkswagen Beetle Hatchback 2012
+sim value 0.206
+1 -  BMW 1 Series Convertible 2012
+sim value 0.173
+2 -  Dodge Caravan Minivan 1997
+sim value 0.172
+3 -  Toyota 4Runner SUV 2012
+---------------------------------------------
+Top similar cars to Volkswagen Golf Hatchback 1991
+sim value 0.387
+1 -  Volvo C30 Hatchback 2012
+sim value 0.262
+2 -  Dodge Caliber Wagon 2012
+sim value 0.207
+3 -  Hyundai Elantra Touring Hatchback 2012
+---------------------------------------------
+Top similar cars to Volkswagen Golf Hatchback 2012
+sim value 0.257
+1 -  Bugatti Veyron 16.4 Convertible 2009
+sim value 0.250
+2 -  Audi S5 Convertible 2012
+sim value 0.232
+3 -  Buick Verano Sedan 2012
+---------------------------------------------
+Top similar cars to Volvo 240 Sedan 1993
+sim value 0.274
+1 -  Dodge Caliber Wagon 2012
+sim value 0.197
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.183
+3 -  Ford E-Series Wagon Van 2012
+---------------------------------------------
+Top similar cars to Volvo C30 Hatchback 2012
+sim value 0.387
+1 -  Volkswagen Golf Hatchback 1991
+sim value 0.339
+2 -  Audi RS 4 Convertible 2008
+sim value 0.264
+3 -  BMW 6 Series Convertible 2007
+---------------------------------------------
+Top similar cars to Volvo XC90 SUV 2007
+sim value 0.274
+1 -  Audi RS 4 Convertible 2008
+sim value 0.252
+2 -  Honda Odyssey Minivan 2012
+sim value 0.231
+3 -  Dodge Charger SRT-8 2009
+---------------------------------------------
+Top similar cars to smart fortwo Convertible 2012
+sim value 0.218
+1 -  Nissan Leaf Hatchback 2012
+sim value 0.203
+2 -  Hyundai Veracruz SUV 2012
+sim value 0.193
+3 -  Hyundai Sonata Hybrid Sedan 2012
+---------------------------------------------

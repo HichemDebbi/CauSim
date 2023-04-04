@@ -1,0 +1,522 @@
+Top similar birds to cock
+
+1 .   indigo_bunting
+
+2 .   European_gallinule
+
+3 .   black_swan
+
+---------------------------------------------
+Top similar birds to hen
+
+1 .   coucal
+
+2 .   ptarmigan
+
+3 .   quail
+
+---------------------------------------------
+Top similar birds to ostrich
+
+1 .   black_swan
+
+2 .   black_grouse
+
+3 .   partridge
+
+---------------------------------------------
+Top similar birds to brambling
+
+1 .   robin
+
+2 .   macaw
+
+3 .   drake
+
+---------------------------------------------
+Top similar birds to goldfinch
+
+1 .   junco
+
+2 .   red-backed_sandpiper
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to house_finch
+
+1 .   red-backed_sandpiper
+
+2 .   junco
+
+3 .   goldfinch
+
+---------------------------------------------
+Top similar birds to junco
+
+1 .   red-backed_sandpiper
+
+2 .   goldfinch
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to indigo_bunting
+
+1 .   house_finch
+
+2 .   cock
+
+3 .   European_gallinule
+
+---------------------------------------------
+Top similar birds to robin
+
+1 .   brambling
+
+2 .   house_finch
+
+3 .   drake
+
+---------------------------------------------
+Top similar birds to bulbul
+
+1 .   robin
+
+2 .   house_finch
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to jay
+
+1 .   bulbul
+
+2 .   oystercatcher
+
+3 .   magpie
+
+---------------------------------------------
+Top similar birds to magpie
+
+1 .   redshank
+
+2 .   oystercatcher
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to chickadee
+
+1 .   junco
+
+2 .   red-backed_sandpiper
+
+3 .   goldfinch
+
+---------------------------------------------
+Top similar birds to water_ouzel
+
+1 .   goldfinch
+
+2 .   junco
+
+3 .   red-backed_sandpiper
+
+---------------------------------------------
+Top similar birds to kite
+
+1 .   black_swan
+
+2 .   black_grouse
+
+3 .   prairie_chicken
+
+---------------------------------------------
+Top similar birds to bald_eagle
+
+1 .   limpkin
+
+2 .   partridge
+
+3 .   cock
+
+---------------------------------------------
+Top similar birds to vulture
+
+1 .   black_swan
+
+2 .   goose
+
+3 .   ruddy_turnstone
+
+---------------------------------------------
+Top similar birds to great_grey_owl
+
+1 .   African_grey
+
+2 .   hummingbird
+
+3 .   quail
+
+---------------------------------------------
+Top similar birds to black_grouse
+
+1 .   prairie_chicken
+
+2 .   black_swan
+
+3 .   partridge
+
+---------------------------------------------
+Top similar birds to ptarmigan
+
+1 .   coucal
+
+2 .   hen
+
+3 .   partridge
+
+---------------------------------------------
+Top similar birds to ruffed_grouse
+
+1 .   quail
+
+2 .   ptarmigan
+
+3 .   coucal
+
+---------------------------------------------
+Top similar birds to prairie_chicken
+
+1 .   black_grouse
+
+2 .   black_swan
+
+3 .   bustard
+
+---------------------------------------------
+Top similar birds to peacock
+
+1 .   hornbill
+
+2 .   bee_eater
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to quail
+
+1 .   coucal
+
+2 .   hen
+
+3 .   ptarmigan
+
+---------------------------------------------
+Top similar birds to partridge
+
+1 .   black_grouse
+
+2 .   coucal
+
+3 .   hen
+
+---------------------------------------------
+Top similar birds to African_grey
+
+1 .   great_grey_owl
+
+2 .   hummingbird
+
+3 .   quail
+
+---------------------------------------------
+Top similar birds to macaw
+
+1 .   brambling
+
+2 .   European_gallinule
+
+3 .   African_grey
+
+---------------------------------------------
+Top similar birds to sulphur-crested_cockatoo
+
+1 .   albatross
+
+2 .   white_stork
+
+3 .   goose
+
+---------------------------------------------
+Top similar birds to lorikeet
+
+1 .   drake
+
+2 .   robin
+
+3 .   bee_eater
+
+---------------------------------------------
+Top similar birds to coucal
+
+1 .   ptarmigan
+
+2 .   hen
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to bee_eater
+
+1 .   drake
+
+2 .   toucan
+
+3 .   robin
+
+---------------------------------------------
+Top similar birds to hornbill
+
+1 .   peacock
+
+2 .   bee_eater
+
+3 .   partridge
+
+---------------------------------------------
+Top similar birds to hummingbird
+
+1 .   great_grey_owl
+
+2 .   African_grey
+
+3 .   quail
+
+---------------------------------------------
+Top similar birds to jacamar
+
+1 .   bee_eater
+
+2 .   robin
+
+3 .   brambling
+
+---------------------------------------------
+Top similar birds to toucan
+
+1 .   king_penguin
+
+2 .   bee_eater
+
+3 .   drake
+
+---------------------------------------------
+Top similar birds to drake
+
+1 .   lorikeet
+
+2 .   robin
+
+3 .   bee_eater
+
+---------------------------------------------
+Top similar birds to red-breasted_merganser
+
+1 .   American_coot
+
+2 .   black_stork
+
+3 .   lorikeet
+
+---------------------------------------------
+Top similar birds to goose
+
+1 .   American_egret
+
+2 .   black_swan
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to black_swan
+
+1 .   black_grouse
+
+2 .   American_egret
+
+3 .   American_coot
+
+---------------------------------------------
+Top similar birds to white_stork
+
+1 .   black_swan
+
+2 .   limpkin
+
+3 .   goose
+
+---------------------------------------------
+Top similar birds to black_stork
+
+1 .   red-breasted_merganser
+
+2 .   macaw
+
+3 .   American_coot
+
+---------------------------------------------
+Top similar birds to spoonbill
+
+1 .   indigo_bunting
+
+2 .   hen
+
+3 .   white_stork
+
+---------------------------------------------
+Top similar birds to flamingo
+
+1 .   little_blue_heron
+
+2 .   cock
+
+3 .   macaw
+
+---------------------------------------------
+Top similar birds to little_blue_heron
+
+1 .   flamingo
+
+2 .   cock
+
+3 .   macaw
+
+---------------------------------------------
+Top similar birds to American_egret
+
+1 .   black_swan
+
+2 .   goose
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to bittern
+
+1 .   pelican
+
+2 .   ruddy_turnstone
+
+3 .   black_swan
+
+---------------------------------------------
+Top similar birds to limpkin
+
+1 .   bald_eagle
+
+2 .   white_stork
+
+3 .   cock
+
+---------------------------------------------
+Top similar birds to European_gallinule
+
+1 .   indigo_bunting
+
+2 .   cock
+
+3 .   macaw
+
+---------------------------------------------
+Top similar birds to American_coot
+
+1 .   red-breasted_merganser
+
+2 .   black_swan
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to bustard
+
+1 .   black_swan
+
+2 .   black_grouse
+
+3 .   coucal
+
+---------------------------------------------
+Top similar birds to ruddy_turnstone
+
+1 .   black_swan
+
+2 .   oystercatcher
+
+3 .   black_grouse
+
+---------------------------------------------
+Top similar birds to red-backed_sandpiper
+
+1 .   junco
+
+2 .   goldfinch
+
+3 .   house_finch
+
+---------------------------------------------
+Top similar birds to redshank
+
+1 .   magpie
+
+2 .   oystercatcher
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to dowitcher
+
+1 .   bustard
+
+2 .   black_swan
+
+3 .   ruddy_turnstone
+
+---------------------------------------------
+Top similar birds to oystercatcher
+
+1 .   magpie
+
+2 .   redshank
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to pelican
+
+1 .   bittern
+
+2 .   robin
+
+3 .   jay
+
+---------------------------------------------
+Top similar birds to king_penguin
+
+1 .   toucan
+
+2 .   goose
+
+3 .   drake
+
+---------------------------------------------
+Top similar birds to albatross
+
+1 .   sulphur-crested_cockatoo
+
+2 .   goose
+
+3 .   black_swan
+
+---------------------------------------------

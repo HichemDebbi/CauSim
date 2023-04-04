@@ -1,0 +1,1519 @@
+40 false out of 120
+
+Top similar dogs to Chihuahua
+
+sim value 0.803
+sim value 0.731
+sim value 0.701
+1 .   Blenheim_spaniel
+
+2 .   Brabancon_griffon
+
+3 .   Pekinese
+
+---------------------------------------------
+Top similar dogs to Japanese_spaniel
+
+sim value 0.674
+sim value 0.587
+sim value 0.559
+1 .   Blenheim_spaniel
+
+2 .   Pekinese
+
+3 .   Brabancon_griffon
+
+---------------------------------------------
+Top similar dogs to Maltese_dog
+
+sim value 0.532
+sim value 0.479
+sim value 0.448
+1 .   West_Highland_white_terrier
+
+2 .   soft-coated_wheaten_terrier
+
+3 .   Dandie_Dinmont
+
+---------------------------------------------
+Top similar dogs to Pekinese
+
+sim value 0.776
+sim value 0.762
+sim value 0.701
+1 .   Blenheim_spaniel
+
+2 .   Brabancon_griffon
+
+3 .   Chihuahua
+
+---------------------------------------------
+Top similar dogs to Shih-Tzu
+
+sim value 0.552
+sim value 0.543
+sim value 0.534
+1 .   Lhasa
+
+2 .   Pekinese
+
+3 .   Blenheim_spaniel
+
+---------------------------------------------
+Top similar dogs to Blenheim_spaniel
+
+sim value 0.861
+sim value 0.803
+sim value 0.776
+1 .   Brabancon_griffon
+
+2 .   Chihuahua
+
+3 .   Pekinese
+
+---------------------------------------------
+Top similar dogs to papillon
+
+sim value 0.710
+sim value 0.691
+sim value 0.575
+1 .   Border_collie
+
+2 .   Boston_bull
+
+3 .  	English_springer
+
+---------------------------------------------
+Top similar dogs to toy_terrier
+
+sim value 0.452
+sim value 0.442
+sim value 0.424
+1 .   white_wolf
+
+2 .   kuvasz
+
+3 .   sulphur-crested_cockatoo
+
+ white_wolf
+ is not a dog
+---------------------------------------------
+Top similar dogs to Rhodesian_ridgeback
+
+sim value 0.537
+sim value 0.502
+sim value 0.497
+1 .   schipperke
+
+2 .   Rottweiler
+
+3 .   Irish_setter
+
+---------------------------------------------
+Top similar dogs to Afghan_hound
+
+sim value 0.842
+sim value 0.618
+sim value 0.515
+1 .   standard_poodle
+
+2 .   Irish_water_spaniel
+
+3 .   Saluki
+
+---------------------------------------------
+Top similar dogs to basset
+
+sim value 0.558
+sim value 0.549
+sim value 0.537
+1 .  	English_setter
+
+2 .   Border_collie
+
+3 .   clumber
+
+---------------------------------------------
+Top similar dogs to beagle
+
+sim value 0.670
+sim value 0.545
+sim value 0.496
+1 .   Labrador_retriever
+
+2 .   golden_retriever
+
+3 .   Walker_hound
+
+---------------------------------------------
+Top similar dogs to bloodhound
+
+sim value 0.846
+sim value 0.769
+sim value 0.564
+1 .   spoonbill
+
+2 .   fig
+
+3 .   shoe_shop
+
+ spoonbill
+ is not a dog
+---------------------------------------------
+Top similar dogs to bluetick
+
+sim value 0.843
+sim value 0.765
+sim value 0.741
+1 .   English_foxhound
+
+2 .   burrito
+
+3 .   kelpie
+
+---------------------------------------------
+Top similar dogs to black-and-tan_coonhound
+
+sim value 0.646
+sim value 0.609
+sim value 0.595
+1 .   muzzle
+
+2 .   Appenzeller
+
+3 .   Irish_setter
+
+ muzzle
+ is not a dog
+---------------------------------------------
+Top similar dogs to Walker_hound
+
+sim value 0.733
+sim value 0.551
+sim value 0.496
+1 .   Labrador_retriever
+
+2 .   Saluki
+
+3 .   beagle
+
+---------------------------------------------
+Top similar dogs to English_foxhound
+
+sim value 0.955
+sim value 0.907
+sim value 0.843
+1 .   burrito
+
+2 .   kelpie
+
+3 .   bluetick
+
+ burrito
+ is not a dog
+---------------------------------------------
+Top similar dogs to redbone
+
+sim value 0.520
+sim value 0.467
+sim value 0.406
+1 .   Gordon_setter
+
+2 .   Irish_terrier
+
+3 .   German_short-haired_pointer
+
+---------------------------------------------
+Top similar dogs to borzoi
+
+sim value 0.472
+sim value 0.404
+sim value 0.385
+1 .   collie
+
+2 .   groenendael
+
+3 .   wire-haired_fox_terrier
+
+---------------------------------------------
+Top similar dogs to Irish_wolfhound
+
+sim value 0.484
+sim value 0.433
+sim value 0.338
+1 .   castle
+
+2 .   cairn
+
+3 .   cocker_spaniel
+
+ castle
+ is not a dog
+---------------------------------------------
+Top similar dogs to Italian_greyhound
+
+sim value 0.796
+sim value 0.793
+sim value 0.787
+1 .   Irish_setter
+
+2 .   Rottweiler
+
+3 .   Newfoundland
+
+---------------------------------------------
+Top similar dogs to whippet
+
+sim value 0.683
+sim value 0.520
+sim value 0.456
+1 .   snowplow
+
+2 .   snowmobile
+
+3 .   ski
+
+ snowplow
+ is not a dog
+---------------------------------------------
+Top similar dogs to Ibizan_hound
+
+sim value 0.658
+sim value 0.656
+sim value 0.645
+1 .   chambered_nautilus
+
+2 .   bonnet
+
+3 .   black_swan
+
+ chambered_nautilus
+ is not a dog
+---------------------------------------------
+Top similar dogs to Norwegian_elkhound
+
+sim value 0.412
+sim value 0.322
+sim value 0.297
+1 .   cougar
+
+2 .   tabby
+
+3 .   keeshond
+
+ cougar
+ is not a dog
+---------------------------------------------
+Top similar dogs to otterhound
+
+sim value 0.639
+sim value 0.585
+sim value 0.573
+1 .   golden_retriever
+
+2 .   German_short-haired_pointer
+
+3 .   Irish_terrier
+
+---------------------------------------------
+Top similar dogs to Saluki
+
+sim value 0.551
+sim value 0.515
+sim value 0.497
+1 .   Walker_hound
+
+2 .   Afghan_hound
+
+3 .   standard_poodle
+
+---------------------------------------------
+Top similar dogs to Scottish_deerhound
+
+sim value 0.631
+sim value 0.547
+sim value 0.543
+1 .   Kerry_blue_terrier
+
+2 .   chain_mail
+
+3 .   grey_fox
+
+---------------------------------------------
+Top similar dogs to Weimaraner
+
+sim value 0.715
+sim value 0.656
+sim value 0.640
+1 .   Mexican_hairless
+
+2 .   otter
+
+3 .   sea_lion
+
+---------------------------------------------
+Top similar dogs to Staffordshire_bullterrier
+
+sim value 0.573
+sim value 0.424
+sim value 0.420
+1 .   American_Staffordshire_terrier
+
+2 .   Norfolk_terrier
+
+3 .   pitcher
+
+---------------------------------------------
+Top similar dogs to American_Staffordshire_terrier
+
+sim value 0.573
+sim value 0.464
+sim value 0.436
+1 .   Staffordshire_bullterrier
+
+2 .   Border_collie
+
+3 .   Boston_bull
+
+---------------------------------------------
+Top similar dogs to Bedlington_terrier
+
+sim value 0.729
+sim value 0.699
+sim value 0.635
+1 .   Mexican_hairless
+
+2 .   otter
+
+3 .   Weimaraner
+
+---------------------------------------------
+Top similar dogs to Border_terrier
+
+sim value 0.648
+sim value 0.626
+sim value 0.615
+1 .   pug
+
+2 .   Leonberg
+
+3 .   African_hunting_dog
+
+---------------------------------------------
+Top similar dogs to Kerry_blue_terrier
+
+sim value 0.631
+sim value 0.529
+sim value 0.507
+1 .   Scottish_deerhound
+
+2 .   hyena
+
+3 .   grey_fox
+
+---------------------------------------------
+Top similar dogs to Irish_terrier
+
+sim value 0.711
+sim value 0.683
+sim value 0.674
+1 .   Gordon_setter
+
+2 .   black_swan
+
+3 .   bonnet
+
+---------------------------------------------
+Top similar dogs to Norfolk_terrier
+
+sim value 0.424
+sim value 0.419
+sim value 0.379
+1 .   Staffordshire_bullterrier
+
+2 .   American_Staffordshire_terrier
+
+3 .   Gordon_setter
+
+---------------------------------------------
+Top similar dogs to Norwich_terrier
+
+sim value 0.668
+sim value 0.537
+sim value 0.528
+1 .   Gordon_setter
+
+2 .   chimpanzee
+
+3 .   centipede
+
+---------------------------------------------
+Top similar dogs to Yorkshire_terrier
+
+sim value 0.409
+sim value 0.336
+sim value 0.326
+1 .   Norwich_terrier
+
+2 .   Chihuahua
+
+3 .   Brabancon_griffon
+
+---------------------------------------------
+Top similar dogs to wire-haired_fox_terrier
+
+sim value 0.806
+sim value 0.708
+sim value 0.623
+1 .   mashed_potato
+
+2 .   Angora
+
+3 .   Petri_dish
+
+ mashed_potato
+ is not a dog
+---------------------------------------------
+Top similar dogs to Lakeland_terrier
+
+sim value 0.617
+sim value 0.532
+sim value 0.523
+1 .   wire-haired_fox_terrier
+
+2 .   mashed_potato
+
+3 .   Airedale
+
+---------------------------------------------
+Top similar dogs to Sealyham_terrier
+
+sim value 0.440
+sim value 0.428
+sim value 0.392
+1 .   coucal
+
+2 .   hen
+
+3 .   patas
+
+ coucal
+ is not a dog
+---------------------------------------------
+Top similar dogs to Airedale
+
+sim value 0.842
+sim value 0.523
+sim value 0.386
+1 .   geyser
+
+2 .   Lakeland_terrier
+
+3 .   soft-coated_wheaten_terrier
+
+ geyser
+ is not a dog
+---------------------------------------------
+Top similar dogs to cairn
+
+sim value 0.602
+sim value 0.465
+sim value 0.454
+1 .   West_Highland_white_terrier
+
+2 .   Dandie_Dinmont
+
+3 .   cocker_spaniel
+
+---------------------------------------------
+Top similar dogs to 
+sim value 0.622
+sim value 0.522
+sim value 0.505
+1 .   Gordon_setter
+
+2 .   chimpanzee
+
+3 .   Norwich_terrier
+
+---------------------------------------------
+Top similar dogs to Dandie_Dinmont
+
+sim value 0.959
+sim value 0.848
+sim value 0.698
+1 .   cocker_spaniel
+
+2 .   soft-coated_wheaten_terrier
+
+3 .   miniature_schnauzer
+
+---------------------------------------------
+Top similar dogs to Boston_bull
+
+sim value 0.852
+sim value 0.691
+sim value 0.655
+1 .   Border_collie
+
+2 .   papillon
+
+3 .  	English_springer
+
+---------------------------------------------
+Top similar dogs to miniature_schnauzer
+
+sim value 0.698
+sim value 0.684
+sim value 0.684
+1 .   Dandie_Dinmont
+
+2 .   cocker_spaniel
+
+3 .   soft-coated_wheaten_terrier
+
+---------------------------------------------
+Top similar dogs to giant_schnauzer
+
+sim value 0.445
+sim value 0.414
+sim value 0.381
+1 .   schipperke
+
+2 .   Greater_Swiss_Mountain_dog
+
+3 .   flat-coated_retriever
+
+---------------------------------------------
+Top similar dogs to standard_schnauzer
+
+sim value 0.532
+sim value 0.517
+sim value 0.510
+1 .   bonnet
+
+2 .   black_swan
+
+3 .   wall_clock
+
+ bonnet
+ is not a dog
+---------------------------------------------
+Top similar dogs to Scotch_terrier
+
+sim value 0.766
+sim value 0.746
+sim value 0.736
+1 .   bonnet
+
+2 .   black_swan
+
+3 .   wall_clock
+
+ bonnet
+ is not a dog
+---------------------------------------------
+Top similar dogs to Tibetan_terrier
+
+sim value 0.657
+sim value 0.619
+sim value 0.576
+1 .   Lhasa
+
+2 .   soft-coated_wheaten_terrier
+
+3 .   miniature_schnauzer
+
+---------------------------------------------
+Top similar dogs to silky_terrier
+
+sim value 0.553
+sim value 0.434
+sim value 0.303
+1 .   papillon
+
+2 .   Tibetan_terrier
+
+3 .   gorilla
+
+---------------------------------------------
+Top similar dogs to soft-coated_wheaten_terrier
+
+sim value 0.856
+sim value 0.848
+sim value 0.732
+1 .   cocker_spaniel
+
+2 .   Dandie_Dinmont
+
+3 .   West_Highland_white_terrier
+
+---------------------------------------------
+Top similar dogs to West_Highland_white_terrier
+
+sim value 0.732
+sim value 0.668
+sim value 0.666
+1 .   soft-coated_wheaten_terrier
+
+2 .   Dandie_Dinmont
+
+3 .   cocker_spaniel
+
+---------------------------------------------
+Top similar dogs to Lhasa
+
+sim value 0.732
+sim value 0.711
+sim value 0.711
+1 .   bonnet
+
+2 .   black_swan
+
+3 .   chambered_nautilus
+
+ bonnet
+ is not a dog
+---------------------------------------------
+Top similar dogs to flat-coated_retriever
+
+sim value 0.777
+sim value 0.589
+sim value 0.490
+1 .   schipperke
+
+2 .   siamang
+
+3 .   mink
+
+---------------------------------------------
+Top similar dogs to curly-coated_retriever
+
+sim value 0.688
+sim value 0.500
+sim value 0.343
+1 .   koala
+
+2 .   Bouvier_des_Flandres
+
+3 .   Irish_water_spaniel
+
+ koala
+ is not a dog
+---------------------------------------------
+Top similar dogs to golden_retriever
+
+sim value 0.689
+sim value 0.639
+sim value 0.545
+1 .   Labrador_retriever
+
+2 .   otterhound
+
+3 .   beagle
+
+---------------------------------------------
+Top similar dogs to Labrador_retriever
+
+sim value 0.733
+sim value 0.689
+sim value 0.670
+1 .   Walker_hound
+
+2 .   golden_retriever
+
+3 .   beagle
+
+---------------------------------------------
+Top similar dogs to Chesapeake_Bay_retriever
+
+sim value 0.401
+sim value 0.384
+sim value 0.374
+1 .   Weimaraner
+
+2 .   chain_mail
+
+3 .   bluetick
+
+---------------------------------------------
+Top similar dogs to German_short-haired_pointer
+
+sim value 0.585
+sim value 0.528
+sim value 0.521
+1 .   otterhound
+
+2 .   golden_retriever
+
+3 .   Irish_terrier
+
+---------------------------------------------
+Top similar dogs to vizsla
+
+sim value 0.521
+sim value 0.520
+sim value 0.518
+1 .   bonnet
+
+2 .   black_swan
+
+3 .   wall_clock
+
+ bonnet
+ is not a dog
+---------------------------------------------
+Top similar dogs to 
+sim value 0.678
+sim value 0.667
+sim value 0.607
+1 .   sorrel
+
+2 .   gorilla
+
+3 .   Border_collie
+
+ sorrel
+ is not a dog
+---------------------------------------------
+Top similar dogs to Irish_setter
+
+sim value 0.992
+sim value 0.988
+sim value 0.915
+1 .   Newfoundland
+
+2 .   Rottweiler
+
+3 .   jacamar
+
+---------------------------------------------
+Top similar dogs to Gordon_setter
+
+sim value 0.828
+sim value 0.711
+sim value 0.690
+1 .   chimpanzee
+
+2 .   Irish_terrier
+
+3 .   centipede
+
+ chimpanzee
+ is not a dog
+---------------------------------------------
+Top similar dogs to Brittany_spaniel
+
+sim value 0.613
+sim value 0.539
+sim value 0.539
+1 .   hog
+
+2 .   clumber
+
+3 .   Weimaraner
+
+ hog
+ is not a dog
+---------------------------------------------
+Top similar dogs to clumber
+
+sim value 0.603
+sim value 0.572
+sim value 0.571
+1 .   Welsh_springer_spaniel
+
+2 .   burrito
+
+3 .   English_foxhound
+
+---------------------------------------------
+Top similar dogs to 
+sim value 0.696
+sim value 0.655
+sim value 0.575
+1 .   Border_collie
+
+2 .   Boston_bull
+
+3 .   papillon
+
+---------------------------------------------
+Top similar dogs to Welsh_springer_spaniel
+
+sim value 0.687
+sim value 0.657
+sim value 0.650
+1 .   burrito
+
+2 .   English_foxhound
+
+3 .   kelpie
+
+ burrito
+ is not a dog
+---------------------------------------------
+Top similar dogs to cocker_spaniel
+
+sim value 0.959
+sim value 0.856
+sim value 0.684
+1 .   Dandie_Dinmont
+
+2 .   soft-coated_wheaten_terrier
+
+3 .   miniature_schnauzer
+
+---------------------------------------------
+Top similar dogs to Sussex_spaniel
+
+sim value 0.621
+sim value 0.615
+sim value 0.607
+1 .   bonnet
+
+2 .   black_swan
+
+3 .   wall_clock
+
+ bonnet
+ is not a dog
+---------------------------------------------
+Top similar dogs to Irish_water_spaniel
+
+sim value 0.618
+sim value 0.525
+sim value 0.500
+1 .   Afghan_hound
+
+2 .   Bouvier_des_Flandres
+
+3 .   mink
+
+---------------------------------------------
+Top similar dogs to kuvasz
+
+sim value 0.693
+sim value 0.680
+sim value 0.582
+1 .   sulphur-crested_cockatoo
+
+2 .   white_wolf
+
+3 .   ice_cream
+
+ sulphur-crested_cockatoo
+ is not a dog
+---------------------------------------------
+Top similar dogs to schipperke
+
+sim value 0.777
+sim value 0.638
+sim value 0.537
+1 .   flat-coated_retriever
+
+2 .   mink
+
+3 .   Rhodesian_ridgeback
+
+---------------------------------------------
+Top similar dogs to groenendael
+
+sim value 0.533
+sim value 0.477
+sim value 0.443
+1 .   collie
+
+2 .   Pomeranian
+
+3 .   Old_English_sheepdog
+
+---------------------------------------------
+Top similar dogs to malinois
+
+sim value 0.575
+sim value 0.419
+sim value 0.395
+1 .   German_shepherd
+
+2 .   collie
+
+3 .   wallaby
+
+---------------------------------------------
+Top similar dogs to briard
+
+sim value 0.596
+sim value 0.505
+sim value 0.428
+1 .   pirate
+
+2 .   streetcar
+
+3 .   Lhasa
+
+ pirate
+ is not a dog
+---------------------------------------------
+Top similar dogs to kelpie
+
+sim value 0.940
+sim value 0.907
+sim value 0.741
+1 .   burrito
+
+2 .   English_foxhound
+
+3 .   bluetick
+
+ burrito
+ is not a dog
+---------------------------------------------
+Top similar dogs to komondor
+
+sim value 0.962
+sim value 0.959
+sim value 0.936
+1 .   hay
+
+2 .   thatch
+
+3 .   broom
+
+ hay
+ is not a dog
+---------------------------------------------
+Top similar dogs to Old_English_sheepdog
+
+sim value 0.987
+sim value 0.902
+sim value 0.680
+1 .   consomme
+
+2 .   Pomeranian
+
+3 .   Samoyed
+
+ consomme
+ is not a dog
+---------------------------------------------
+Top similar dogs to Shetland_sheepdog
+
+sim value 0.582
+sim value 0.468
+sim value 0.464
+1 .   Cardigan
+
+2 .   Scotch_terrier
+
+3 .   bicycle-built-for-two
+
+---------------------------------------------
+Top similar dogs to collie
+
+sim value 0.533
+sim value 0.472
+sim value 0.421
+1 .   groenendael
+
+2 .   borzoi
+
+3 .   standard_poodle
+
+---------------------------------------------
+Top similar dogs to Border_collie
+
+sim value 0.852
+sim value 0.710
+sim value 0.696
+1 .   Boston_bull
+
+2 .   papillon
+
+3 .  	English_springer
+
+---------------------------------------------
+Top similar dogs to Bouvier_des_Flandres
+
+sim value 0.615
+sim value 0.525
+sim value 0.505
+1 .   koala
+
+2 .   Irish_water_spaniel
+
+3 .   Lhasa
+
+ koala
+ is not a dog
+---------------------------------------------
+Top similar dogs to Rottweiler
+
+sim value 0.994
+sim value 0.988
+sim value 0.918
+1 .   Newfoundland
+
+2 .   Irish_setter
+
+3 .   jacamar
+
+---------------------------------------------
+Top similar dogs to German_shepherd
+
+sim value 0.575
+sim value 0.547
+sim value 0.513
+1 .   malinois
+
+2 .  	kit_fox
+
+3 .   warplane
+
+---------------------------------------------
+Top similar dogs to Doberman
+
+sim value 0.687
+sim value 0.454
+sim value 0.453
+1 .   red_fox
+
+2 .   Border_collie
+
+3 .  	Australian_terrier
+
+ red_fox
+ is not a dog
+---------------------------------------------
+Top similar dogs to miniature_pinscher
+
+sim value 0.462
+sim value 0.451
+sim value 0.399
+1 .   Italian_greyhound
+
+2 .   Irish_terrier
+
+3 .   impala
+
+---------------------------------------------
+Top similar dogs to Greater_Swiss_Mountain_dog
+
+sim value 0.414
+sim value 0.385
+sim value 0.377
+1 .   giant_schnauzer
+
+2 .   Walker_hound
+
+3 .   bull_mastiff
+
+---------------------------------------------
+Top similar dogs to Bernese_mountain_dog
+
+sim value 0.517
+sim value 0.514
+sim value 0.496
+1 .   sloth_bear
+
+2 .   American_black_bear
+
+3 .   siamang
+
+ sloth_bear
+ is not a dog
+---------------------------------------------
+Top similar dogs to Appenzeller
+
+sim value 0.702
+sim value 0.686
+sim value 0.683
+1 .   Rottweiler
+
+2 .   Newfoundland
+
+3 .   Irish_setter
+
+---------------------------------------------
+Top similar dogs to EntleBucher
+
+sim value 0.360
+sim value 0.343
+sim value 0.342
+1 .   Irish_setter
+
+2 .   Tibetan_mastiff
+
+3 .   Italian_greyhound
+
+---------------------------------------------
+Top similar dogs to boxer
+
+sim value 0.741
+sim value 0.549
+sim value 0.493
+1 .   bull_mastiff
+
+2 .  	English_setter
+
+3 .   Boston_bull
+
+---------------------------------------------
+Top similar dogs to bull_mastiff
+
+sim value 0.741
+sim value 0.475
+sim value 0.437
+1 .   boxer
+
+2 .   pug
+
+3 .   French_bulldog
+
+---------------------------------------------
+Top similar dogs to Tibetan_mastiff
+
+sim value 0.770
+sim value 0.762
+sim value 0.749
+1 .   Newfoundland
+
+2 .   Irish_setter
+
+3 .   Rottweiler
+
+---------------------------------------------
+Top similar dogs to French_bulldog
+
+sim value 0.473
+sim value 0.446
+sim value 0.437
+1 .   hamster
+
+2 .   cairn
+
+3 .   bull_mastiff
+
+ hamster
+ is not a dog
+---------------------------------------------
+Top similar dogs to Great_Dane
+
+sim value 0.482
+sim value 0.444
+sim value 0.401
+1 .   Labrador_retriever
+
+2 .   orangutan
+
+3 .   golden_retriever
+
+---------------------------------------------
+Top similar dogs to Saint_Bernard
+
+sim value 0.459
+sim value 0.444
+sim value 0.436
+1 .   Pekinese
+
+2 .   Blenheim_spaniel
+
+3 .   Chihuahua
+
+---------------------------------------------
+Top similar dogs to Eskimo_dog
+
+sim value 0.576
+sim value 0.567
+sim value 0.561
+1 .   sulphur-crested_cockatoo
+
+2 .   white_wolf
+
+3 .   kuvasz
+
+ sulphur-crested_cockatoo
+ is not a dog
+---------------------------------------------
+Top similar dogs to malamute
+
+sim value 0.619
+sim value 0.605
+sim value 0.591
+1 .   Old_English_sheepdog
+
+2 .   consomme
+
+3 .   Pomeranian
+
+---------------------------------------------
+Top similar dogs to 
+sim value 0.570
+sim value 0.554
+sim value 0.543
+1 .   black-footed_ferret
+
+2 .   gazelle
+
+3 .   bighorn
+
+ black-footed_ferret
+ is not a dog
+---------------------------------------------
+Top similar dogs to affenpinscher
+
+sim value 0.730
+sim value 0.565
+sim value 0.479
+1 .   American_alligator
+
+2 .   Scotch_terrier
+
+3 .   bonnet
+
+ American_alligator
+ is not a dog
+---------------------------------------------
+Top similar dogs to basenji
+
+sim value 0.377
+sim value 0.360
+sim value 0.321
+1 .   Doberman
+
+2 .   Windsor_tie
+
+3 .   hummingbird
+
+---------------------------------------------
+Top similar dogs to pug
+
+sim value 0.806
+sim value 0.747
+sim value 0.648
+1 .   African_hunting_dog
+
+2 .   Leonberg
+
+3 .   Border_terrier
+
+---------------------------------------------
+Top similar dogs to Leonberg
+
+sim value 0.747
+sim value 0.626
+sim value 0.598
+1 .   pug
+
+2 .   Border_terrier
+
+3 .   African_hunting_dog
+
+---------------------------------------------
+Top similar dogs to Newfoundland
+
+sim value 0.994
+sim value 0.992
+sim value 0.923
+1 .   Rottweiler
+
+2 .   Irish_setter
+
+3 .   jacamar
+
+---------------------------------------------
+Top similar dogs to Great_Pyrenees
+
+sim value 0.859
+sim value 0.819
+sim value 0.664
+1 .   white_wolf
+
+2 .   sulphur-crested_cockatoo
+
+3 .   Samoyed
+
+ white_wolf
+ is not a dog
+---------------------------------------------
+Top similar dogs to Samoyed
+
+sim value 0.685
+sim value 0.680
+sim value 0.672
+1 .   white_wolf
+
+2 .   Old_English_sheepdog
+
+3 .   consomme
+
+ white_wolf
+ is not a dog
+---------------------------------------------
+Top similar dogs to Pomeranian
+
+sim value 0.902
+sim value 0.892
+sim value 0.668
+1 .   Old_English_sheepdog
+
+2 .   consomme
+
+3 .   Samoyed
+
+---------------------------------------------
+Top similar dogs to chow
+
+sim value 0.461
+sim value 0.446
+sim value 0.446
+1 .   langur
+
+2 .   sulphur_butterfly
+
+3 .   file
+
+ langur
+ is not a dog
+---------------------------------------------
+Top similar dogs to keeshond
+
+sim value 0.491
+sim value 0.454
+sim value 0.451
+1 .   Arctic_fox
+
+2 .   warplane
+
+3 .   wallaby
+
+ Arctic_fox
+ is not a dog
+---------------------------------------------
+Top similar dogs to Brabancon_griffon
+
+sim value 0.861
+sim value 0.762
+sim value 0.731
+1 .   Blenheim_spaniel
+
+2 .   Pekinese
+
+3 .   Chihuahua
+
+---------------------------------------------
+Top similar dogs to Pembroke
+
+sim value 0.480
+sim value 0.459
+sim value 0.438
+1 .   Cardigan
+
+2 .   red_fox
+
+3 .   Doberman
+
+---------------------------------------------
+Top similar dogs to Cardigan
+
+sim value 0.649
+sim value 0.582
+sim value 0.570
+1 .   Siamese_cat
+
+2 .   Shetland_sheepdog
+
+3 .   dogsled
+
+ Siamese_cat
+ is not a dog
+---------------------------------------------
+Top similar dogs to toy_poodle
+
+sim value 0.270
+sim value 0.218
+sim value 0.197
+1 .   Irish_wolfhound
+
+2 .   Norfolk_terrier
+
+3 .   Yorkshire_terrier
+
+---------------------------------------------
+Top similar dogs to miniature_poodle
+
+sim value 0.626
+sim value 0.618
+sim value 0.564
+1 .   soft-coated_wheaten_terrier
+
+2 .   cocker_spaniel
+
+3 .   miniature_schnauzer
+
+---------------------------------------------
+Top similar dogs to standard_poodle
+
+sim value 0.842
+sim value 0.497
+sim value 0.432
+1 .   Afghan_hound
+
+2 .   Saluki
+
+3 .   Irish_water_spaniel
+
+---------------------------------------------
+Top similar dogs to Mexican_hairless
+
+sim value 0.729
+sim value 0.725
+sim value 0.715
+1 .   Bedlington_terrier
+
+2 .   otter
+
+3 .   Weimaraner
+
+---------------------------------------------
+Top similar dogs to dingo
+
+sim value 0.550
+sim value 0.445
+sim value 0.439
+1 .   impala
+
+2 .   cougar
+
+3 .   standard_schnauzer
+
+ impala
+ is not a dog
+---------------------------------------------
+Top similar dogs to dhole
+
+sim value 0.706
+sim value 0.682
+sim value 0.670
+1 .   sorrel
+
+2 .   gorilla
+
+3 .   coyote
+
+ sorrel
+ is not a dog
+---------------------------------------------
+Top similar dogs to African_hunting_dog
+
+sim value 0.806
+sim value 0.645
+sim value 0.615
+1 .   pug
+
+2 .   vulture
+
+3 .   Border_terrier
+
+---------------------------------------------
+top 1 error=  0.3333333333333333
